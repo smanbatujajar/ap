@@ -10,6 +10,10 @@
 
 ***
 
-* [**Curriculum**]({{ "/curriculum" | relative_url }})
+* [**Kurikulum**]({{ "/curriculum" | relative_url }})
 * [Tools]({{ "/tools" | relative_url }})
-* [Syllabus]({{"/syllabus" | relative_url }})
+* [Silabus]({{"/syllabus" | relative_url }})
+
+***
+
+* [Guru]({{ "/teacher" | relative_url }})
