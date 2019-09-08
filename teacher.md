@@ -30,14 +30,14 @@ Tidak ada buku yang diwajibkan dalam mata pelajaran ini. Namun, siswa mungkin in
 
 ### Buku Paket
 
-* Informatika untuk SMA/MA Kelas X
-Wildan Aprizal Arifin, Fernaldy Akbar Faudzan
-Grafindo Media Pratama, 2019
+* Informatika untuk SMA/MA Kelas X  
+Wildan Aprizal Arifin, Fernaldy Akbar Faudzan  
+Grafindo Media Pratama, 2019  
 ISBN 978-602-01-2478-0
 
-* Informatika untuk SMA/MA Kelas XI
-Wildan Aprizal Arifin, Fernaldy Akbar Faudzan
-Grafindo Media Pratama, 2019
+* Informatika untuk SMA/MA Kelas XI  
+Wildan Aprizal Arifin, Fernaldy Akbar Faudzan  
+Grafindo Media Pratama, 2019  
 ISBN 978-602-01-2479-7
 
 ### Buku Bahasa Asing - Pemula
