@@ -2,6 +2,10 @@
 title: false
 ---
 
+<div class="alert alert-warning" role="alert">
+  Konten di dalam website ini masih dalam pengembangan dan dapat berubah.
+</div>
+
 # Hello, world!
 
 Ini adalah Informatika, mata pelajaran di SMAN 1 Batujajar yang mengenalkan berbagai prinsip ilmu komputer dan seni pemrograman bagi pelajar SMA.
