@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [Informatika]({{ "/" | relative_url }})
 
-Harvard University\\
+SMAN 1 Batujajar\\
 2019–2020
