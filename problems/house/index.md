@@ -27,4 +27,4 @@ Tapi mungkin ada beberapa yang bahkan tidak menggunakan listrik?
 
 Atau mungkin bahkan tidak ada bagian yang bergerak?
 
-<iframe src="https://www.youtube.com/embed/tI0GqYJha1Q"></iframe>
+<iframe src="https://www.youtube.com/embed/tYhq7J7ToQo"></iframe>
