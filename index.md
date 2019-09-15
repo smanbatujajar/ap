@@ -10,7 +10,7 @@ Ini adalah Informatika, mata pelajaran di SMAN 1 Batujajar yang mengenalkan berb
 
 ## Silabus
 
-Pahami peraturan mata pelajaran dan kenali materi yang akan dipelajari di laman [silabus](/syllabus).
+Pahami peraturan mata pelajaran dan kenali materi yang akan dipelajari di laman [silabus](syllabus).
 
 ## Lisensi
 
