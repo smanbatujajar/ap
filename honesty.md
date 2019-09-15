@@ -1,2 +1,5 @@
-# Kejujuran Akademik
+## Kejujuran Akademik
 
+### Wajar
+
+### Tidak Wajar
