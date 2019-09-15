@@ -5,8 +5,8 @@
 
 ***
 
-* [Bab 0](chapter/0) Aplikasi Office
-* [Bab 1](chapter/1) Sistem Komputer
+* [Bab 0]({{ "/chapter/0" | relative_url }}) Aplikasi Office
+* [Bab 1]({{ "/chapter/1" | relative_url }}) Sistem Komputer
 
 ***
 
@@ -18,7 +18,7 @@
 * [**Kurikulum**]({{ "/curriculum" | relative_url }})
 * [Tools]({{ "/tools" | relative_url }})
 * [Diskusi](https://www.facebook.com/groups/informatika.sma)
-* [Silabus]({{"/syllabus" | relative_url }})
+* [Silabus]({{ "/syllabus" | relative_url }})
 
 ***
 
