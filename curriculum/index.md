@@ -1,3 +1,9 @@
+---
+title: Kurikulum
+---
+
+{% include alert.md %}
+
 # CS50 Core Curriculum
 
 * [Chapter 0](0)
