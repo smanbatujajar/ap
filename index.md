@@ -10,6 +10,10 @@ title: false
 
 Ini adalah Informatika, mata pelajaran di SMAN 1 Batujajar yang mengenalkan berbagai prinsip ilmu komputer dan seni pemrograman bagi pelajar SMA.
 
+## Silabus
+
+Pelajari peraturan mata pelajaran dan materi yang akan dipelajari di laman [silabus](/syllabus)
+
 ## Lisensi
 
 [![Lisensi Creative Commons](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.id)

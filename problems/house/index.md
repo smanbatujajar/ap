@@ -1,4 +1,4 @@
-# Rumah
+# Masalah Tulis: Sekitar Rumah
 
 ## Singkat Kata
 
@@ -28,3 +28,14 @@ Tapi mungkin ada beberapa yang bahkan tidak menggunakan listrik?
 Atau mungkin bahkan tidak ada bagian yang bergerak?
 
 <iframe src="https://www.youtube.com/embed/tYhq7J7ToQo"></iframe>
+
+
+
+## Menulis? Saya kira Saya di sini untuk melakukan pemrograman!
+
+## OK... Komputer?
+
+## Cara Mengumpulkan
+
+1. 
+

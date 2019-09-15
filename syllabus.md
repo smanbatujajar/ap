@@ -1,187 +1,151 @@
-# Syllabus
+<div class="alert alert-warning" role="alert">
+  Konten di dalam website ini masih dalam pengembangan dan dapat berubah.
+</div>
 
-###### [Download the full syllabus as a PDF with mappings to the AP CSP Framework's Learning Objectives](https://www.dropbox.com/s/dl/3osf5dq3et1b13i/Syllabus%202019-20.pdf?dl=0)
+# Silabus
 
-## Description
+Silakan membiasakan diri dengan informasi di halaman ini. Tidak mengikuti kebijakan yang dijelaskan pada halaman ini dapat membuat Anda kehilangan poin.
 
-CS50 is Harvard University’s introduction to the intellectual enterprises of computer science and the art of programming for students with a diversity of technological background and experience. CS50 for AP Computer Science Principles is an adaptation of CS50 specifically tailored to align with the AP Computer Science Principles curriculum framework. The course’s assignments, materials, and resources are all identical to the version of the course taught at the college-level, albeit adapted to suit a secondary school audience.
+## Deskripsi
 
-Among this course’s objectives is to supply students with a comprehensive introduction to the fundamentals of the discipline of computer science. We will do so using programming in several different languages as a vehicle to introduce these fundamentals, including such topics as algorithms, abstraction, data, global impact, and internet technologies. Though the course is programming-heavy, it should be stressed that this is not a “programming course”; rather, this course should be considered one of problem-solving, creativity, and exploration. By year’s end, students will have a richer understanding of the key principles of the discipline of computer science. Students will be able to speak intelligently about how computers work and how they enable us to become better problem-solvers, and will hopefully be able to communicate that knowledge to others.
+Informatika adalah mata pelajaran SMAN 1 Batujajar yang mengenalkan ilmu komputer dan seni pemrograman untuk siswa SMA dengan keberagaman latar belakang dan pengalaman teknologi. Materi yang diajarkan selaras dengan KI-KD yang ditentukan oleh Kemdikbud RI, dengan mengadopsi materi yang diajarkan pada CS50 AP. _CS50 for AP Computer Science Principles_ adalah kelas yang dikembangkan oleh Harvard University.
 
-Whether students elect to take no other computer science courses in their lifetime or consider this class the first step in a longer course of study, it is our sincere hope that they feel more comfortable with—and indeed sometimes skeptical of—the technologies that surround us each day.
+Salah satu tujuan dari mata pelajaran ini adalah membekali siswa dengan pengantar komprehensif hingga fundamental dari disiplin ilmu komputer. Kita akan melakukannya dengan menggunakan pemrograman dalam beberapa bahasa sebagai kendaraan untuk mengenalkan dasar-dasar tersebut, termasuk topik seperti algoritma, abstraksi, data, dampak global, dan teknologi internet. Meskipun mata pelajaran ini bertitik berat pada pemrograman, namun perlu ditekankan bahwa ini bukanlah "mata pelajaran pemrograman"; sebaliknya, mata pelajaran ini sebaiknya dianggap salah satu pemecahan masalah, kerativitas, eksplorasi. Pada saat kelulusan, siswa akan memiliki pemahaman yang lebih kaya beragam prinsip kunci dari disiplin ilmu komputer. Siswa akan dapat berbicara secara cerdas mengenai bagaimana komputer bekerja dan bagaimana mereka dapat memungkinkan kita untuk menjadi pemecah masalah yang lebih baik, serta diharapkan akan dapat mengkomunikasikan pengetahuan tersebut pada orang lain.
 
-## Expectations
+Apakah siswa memilih untuk tidak mengambil kelas ilmu komputer lainnya di kehidupan mereka atau melihat mata pelajaran ini sebagai langkah pertama dalam menjalani studi lebih jauh, kami secara tulus berharap mereka merasa lebih nyaman dengan—dan bahkan terkadang skeptis dengan—teknologi yang mengelilingi merekap setiap hari.
 
-Students are expected to submit all problems! If students would like to receive AP credit they will need to take the [AP CSP Exam](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam) and complete the [Create and Explore Tasks](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf).
+## Prasayarat
 
-## Prerequisites
+Latar belakang satu-satunya yang dibutuhkan untuk mata pelajaran Informatika SMA adalah pemahaman Aljabar. Pemahaman bahasa Inggris level pemula juga akan sangat membantu, meskipun bahasa pengantar pembelajaran serta seluruh materi akan disampaikan dalam bahasa Indonesia.
 
-The only background required for CS50 for AP Computer Science Principles is completion of Algebra I or its equivalent.
+## Buku
 
-## Books
+Tidak ada buku yang diwajibkan dalam mata pelajaran ini. Namun, siswa mungkin ingin melengkapi persiapan mereka untuk mempelajari lebih lanjut materi dengan membaca mandiri bacaan yang relevan dengan konten pada materi tersebut dari daftar buku berikut.
 
-No books are required for this course. However, students may want to supplement their preparation for or review of some lectures with self-assigned readings relevant to those lectures' content from either of the books below. The first is intended for those inexperienced in (or less comfortable with the idea of) programming. The second is intended for those experienced in (or more comfortable with the idea of) programming.
+### Buku Paket
 
-### For Those Less Comfortable
+* Informatika untuk SMA/MA Kelas X  
+Wildan Aprizal Arifin, Fernaldy Akbar Faudzan  
+Grafindo Media Pratama, 2019  
+ISBN 978-602-01-2478-0
 
-* _C Programming Absolute Beginner's Guide_, Third Edition  
-Greg Perry, Dean Miller  
-Pearson Education, 2014  
-ISBN 0-789-75198-4
+* Informatika untuk SMA/MA Kelas XI  
+Wildan Aprizal Arifin, Fernaldy Akbar Faudzan  
+Grafindo Media Pratama, 2019  
+ISBN 978-602-01-2479-7
 
-### For Those More Comfortable
+## Ekspektasi
 
-* _Programming in C_, Fourth Edition  
-Stephen G. Kochan  
-Pearson Education, 2015  
-ISBN 0-321-77641-0
-<br>
+Siswa diharapkan mengumpulkan semua tugas tepat waktu. Keterlambatan tidak akan ditoleransi kecuali atas izin dari guru mata pelajaran.
 
-The book below is recommended for those interested in understanding how their own computers work for personal edification.
+## Bobot Penilaian
 
-* _How Computers Work_, Ninth Edition  
-Ron White  
-Que Publishing, 2008  
-ISBN 0-7897-3613-6
-<br>
+70% Tugas dan Kuis
+30% Penilaian Akhir Semester (PAS)
 
-This last book below is recommended for aspiring hackers, those interested in programming techniques and low-level optimization of code for applications beyond the scope of this course.
+## Keterlambatan
 
-* _Hacker's Delight_, Second Edition  
-Henry S. Warren Jr.  
-Pearson Education, 2013  
-ISBN 0-321-84268-5  
+Keterlambatan pengumpulan tugas (kuis, tugas, ujian, dan tugas akhir) akan diberikan sanksi dengan bobot 0.1% setiap menit.
 
-## Overview
+- Jika Anda terlambat mengumpulkan 10 menit, skor Anda akan diberi sanksi 1%. Skor Anda karena itu menjadi 99% dari yang dapat diperoleh jika dikumpulkan tepat waktu.
+- Jika Anda terlambat mengumpulkan 100 menit, skor Anda akan diberi sanksi 10%. Skor Anda karena itu menjadi 90% dari yang dapat diperoleh jika dikumpulkan tepat waktu.
+- Jika Anda terlambat mengumpulkan 1000 menit, skor Anda akan diberi sanksi 100%. Skor Anda menjadi dinolkan.
 
-Consistent with the AP Computer Science Principles curriculum framework, the course’s material is organized around seven so-called “big ideas” as well as six computational thinking practices. The seven big ideas are:
-1.	Creativity
-2.	Abstraction
-3.	Data and Information
-4.	Algorithms
-5.	Programming
-6.	The Internet
-7.	Global Impact
-<br>
+Pengecualian bagi siswa yang sakit rawat inap atau istirahat rumah dengan rekomendasi dokter serta kegiatan yang mengatasnamakan sekolah selama jangka waktu penyelesaian tugas, akan diberikan perpanjangan waktu yang akan ditentukan oleh guru mata pelajaran.
 
-And the six computational thinking practices are:
+Sakit ringan, seperti flu dan batuk, serta ketidakhadiran pada pekan sebelumnya, tidak dapat dijadikan alasan tidak mengerjakan tugas. Selalu cek Google Classroom untuk materi, tugas, serta kuis terbaru meskipun Anda tidak dapat menghadiri kelas.
 
-* P1. Connecting Computing
-* P2. Creating Computational Artifacts
-* P3. Abstracting
-* P4. Analyzing Problems and Artifacts
-* P5. Communicating (both orally and in writing)
-* P6. Collaborating
+## Perbaikan Tugas
 
-## Curriculum
+Sebagai kesempatan untuk Anda mendalami pelajaran serta memperoleh hasil akademik yang memuaskan, Anda diberikan kesempatan untuk memperbaiki tugas selama maksimal 1 pekan setelah nilai dirilis. Melewati waktu tersebut, maka nilai yang Anda peroleh akan dikunci apa adanya.
+
+## Ikhtisar
+
+Konsisten dengan kurikulum Informatika SMA yang dibuat oleh Kemendikbud RI, materi pada mata pelajaran ini disusun di sekitar [KI & KD](http://aren.cs.ui.ac.id/kikd/xkikd.php) serta [enam praktik berpikir komputasional](https://sites.google.com/a/jcu.edu/mt513/resources/cs-principles).
+
+Enam praktik berpikir komputasional adalah:
+
+* P1. Menghubungkan Komputasi
+* P2. Menciptakan Artefak Komputasional
+* P3. Mengabstraksi
+* P4. Menganalisis Masalah dan Artefak
+* P5. Mengkomunikasikan (baik secara lisan maupun tertulis)
+* P6. Kolaborasi
+
+## Kurikulum
 
 The core curriculum is identical to that of the college. The AP modules include topics that are not covered in CS50 here on campus, but are essential to the AP Computer Science Principles Course. The AP modules are less programming centric and can be used wherever you see fit.
 
-## CS50 Core Curriculum
+## Kurikulum Inti Informatika SMA
 
-### Chapter 0
+### Kelas 10
 
-Binary. ASCII. Algorithms. Pseudocode. Scratch.  
+#### Bab 0 - Menguasai Pengolah Dokumen
 
-### Chapter 1
+Tabel. Bagan. Mail Merge. Presentasi.
+
+
+
+### Modul CS50
+
+### Bab 0
+
+Hardware. Internet. Multimedia. Keamanan.
+
+#### Bab 1
+
+Biner. ASCII. Algoritma. Pseudocode. Scratch.  
+
+#### Bab 2
 
 Syntax. Variables. Data Types. Operators. Boolean Expressions and Conditionals. Loops.
 
-### Chapter 2
+#### Bab 3
 
 Compiling. Debugging. Arrays and Strings. Command-Line Interaction. Exit Codes. Searching. Computational Complexity. Computational Models.
 
-### Chapter 3
+#### Bab 4
 
 Functions. Tools for Debugging. More on Strings. Memory. Pointers. Structs.
 
-### Chapter 4
+#### Bab 5
 
 Valgrind. More on Structs. Linked Lists. Hash Tables. Trees. Tries.
 
-### Chapter 5
+#### Bab 6
 
 Internet Basics. HTTP. HTML. Forms. CSS. JavaScript.
 
-### Chapter 6
+#### Bab 7
 
 Python. Conditionals. Booleans. Loops. Data Types. Functions.
 
-### Chapter 7
+#### Bab 8
 
 Flask. MVC. Autocomplete. Events. Ajax. JSON.
 
-### Chapter 8
+#### Bab 9
 
 Cookies. Sessions. Databases. SQL. Race Conditions.
 
-## AP Modules
+## Urutan yang Disarankan
 
-### Understanding Technology
+### Kelas 10
 
-Hardware. The Internet. Multimedia. Security.
+1. Integrasi Aplikasi Office
+2. Mengenal Teknologi
+3. CS50 Bab 0
+4. CS50 Bab 1
+5. CS50 Bab 2
+6. CS50 Bab 3
+7. CS50 Bab 4
 
-### Data Science
+### Kelas 11
 
-Collecting Data. Analyzing Data.
 
-### Impact of Computing
 
-The Development Process. Scaling. Models. Simulations. The Digital Divide. Ethics and Legalities of Computing.
+### Kelas 12
 
-## Recommended Order
 
-1. Understanding Technology
-2. Chapter 0
-3. Performance Task 1: Explore
-4. Chapter 1
-5. Chapter 2
-6. Chapter 3
-7. Chapter 4
-8. Data Science
-9. Chapter 5
-10. Chapter 6
-11. Chapter 7
-12. Chapter 8
-13. Performance Task 2: Create
-12. Impact of Computing
 
-## Academic Honesty
-
-This course's philosophy on academic honesty is best stated as "be reasonable." The course recognizes that interactions with classmates and others can facilitate mastery of the course's material. However, there remains a line between enlisting the help of another and submitting the work of another. This policy characterizes both sides of that line.
-
-The essence of all work that students submit to this course must be their own. Collaboration on problems is not permitted except to the extent that students may ask classmates and others for help so long as that help does not reduce to another doing thier work for them. Generally speaking, when asking for help, students may show their code to others, but they may not view their peers', so long as they respect this policy's other constraints. Collaboration on the AP Computer Science Principle's through-course assessments, namely the create and explore task, is permitted to the extent prescribed by their description provided by the College Board.
-
-Below are rules of thumb that (inexhaustively) characterize acts that the course considers reasonable and not reasonable. Acts considered not reasonable by the course are handled harshly.
-
-### Reasonable
-
-* Communicating with classmates about problems in English (or some other spoken language).
-* Discussing the course's material with others in order to understand it better.
-* Helping a classmate identify a bug in his or her code in class, elsewhere, or even online, as by viewing, compiling, or running his or her code, even on your own computer.
-* Incorporating snippets of code that you find online or elsewhere into your own code, provided that those snippets are not themselves solutions to assigned problems and that you cite the snippets' origins.
-* Reviewing past semesters' quizzes and solutions thereto.
-* Sending or showing code that you've written to someone, possibly a classmate, so that he or she might help you identify and fix a bug.
-* Sharing snippets of your own code online so that others might help you identify and fix a bug.
-* Turning to the web or elsewhere for instruction beyond the course's own, for references, and for solutions to technical difficulties, but not for outright solutions to problems or your own through-course assessments.
-* White-boarding solutions to problems with others using diagrams or pseudocode but not actual code.
-* Working with (and even paying) a tutor to help you with the course, provided the tutor does not do your work for you.
-
-### Not Reasonable
-
-* Accessing a solution in CS50 Vault to some problem prior to (re-)submitting your own.
-* Asking a classmate to see his or her solution to a problem before (re-)submitting your own.
-* Decompiling, deobfuscating, or disassembling the staff's solutions to problems.
-* Failing to cite (as with comments) the origins of code or techniques that you discover outside of the course's own lessons and integrate into your own work, even while respecting this policy's other constraints.
-* Giving or showing to a classmate a solution to a problem when it is he or she, and not you, who is struggling to solve it.
-* Looking at another individual's work during a test or quiz.
-* Paying or offering to pay an individual for work that you may submit as (part of) your own.
-* Providing or making available solutions to problems to individuals who might take this course in the future.
-* Searching for, soliciting, or viewing a test or quiz's questions or answers prior to taking a test or quiz.
-* Searching for or soliciting outright solutions to problems online or elsewhere.
-* Splitting a problem's workload with another individual and combining your work, when prohibited.
-* Submitting (after possibly modifying) the work of another individual beyond allowed snippets.
-* Submitting the same or similar work to this course that you have submitted or will submit to another.
-* Submitting work to this course that you intend to use outside of the course (e.g., for a job) without prior approval.
-* Using resources during a test or quiz beyond those explicitly allowed in the test or quiz's instructions.
-* Viewing another's solution to a problem and basing your own solution on it.
+{% include honesty.md %}
