@@ -5,6 +5,11 @@
 
 ***
 
+* [Bab 0](chapter/0) Aplikasi Office
+* [Bab 1](chapter/1) Sistem Komputer
+
+***
+
 * [Status Page](https://cs50.statuspage.io/)
 * [Style Guide](https://cs50.readthedocs.io/style/c/)
 
