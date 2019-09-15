@@ -40,7 +40,7 @@ Siswa diharapkan mengumpulkan semua tugas tepat waktu. Keterlambatan tidak akan 
 
 ## Bobot Penilaian
 
-70% Tugas dan Kuis
+70% Tugas dan Kuis  
 30% Penilaian Akhir Semester (PAS)
 
 ## Keterlambatan
@@ -74,17 +74,13 @@ Enam praktik berpikir komputasional adalah:
 
 ## Kurikulum
 
-The core curriculum is identical to that of the college. The AP modules include topics that are not covered in CS50 here on campus, but are essential to the AP Computer Science Principles Course. The AP modules are less programming centric and can be used wherever you see fit.
+Kurikulum inti pada mata pelajaran ini mengacu pada Permendikbud yang telah mengatur KI & KD yang harus dipelajari, dengan mengadopsi modul CS50 AP.
 
 ## Kurikulum Inti Informatika SMA
 
 ### Kelas 10
 
-#### Bab 0 - Menguasai Pengolah Dokumen
-
-Tabel. Bagan. Mail Merge. Presentasi.
-
-
+Coming Soon
 
 ### Modul CS50
 
@@ -132,20 +128,14 @@ Cookies. Sessions. Databases. SQL. Race Conditions.
 
 ### Kelas 10
 
-1. Integrasi Aplikasi Office
-2. Mengenal Teknologi
-3. CS50 Bab 0
-4. CS50 Bab 1
-5. CS50 Bab 2
-6. CS50 Bab 3
-7. CS50 Bab 4
+Coming soon
 
 ### Kelas 11
 
-
+Coming soon
 
 ### Kelas 12
 
-
+Coming soon
 
 {% include honesty.md %}
