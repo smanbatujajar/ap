@@ -1,3 +1,9 @@
+---
+title: Informasi untuk Guru
+---
+
+{% include alert.md %}
+
 # Informasi untuk Guru
 
 ## Mata Pelajaran ini Terbuka Untuk Umum
