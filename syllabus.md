@@ -1,10 +1,6 @@
----
-title: Silabus
----
+# Silabus
 
 {% include alert.md %}
-
-# Silabus
 
 Silakan membiasakan diri dengan informasi di halaman ini. Tidak mengikuti kebijakan yang dijelaskan pada halaman ini dapat membuat Anda kehilangan poin.
 
