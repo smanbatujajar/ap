@@ -33,13 +33,13 @@ Berdasarkan pehamanan kebanyakan dari Anda semua tentang komputer, Kemungkinan A
 
 Kami akan menunggu di sini selagi Anda melakukannya.
 
-(berbisik, memutar jempol)
+*(berbisik, memutar jempol)*
 
 O hei! Anda kembali lagi.
 
 Cobalah cari definisi kata "komputer" di beberapa situs online (atau dalam kamus cetak jika kamu masih memilikinya!), dan walaupun kemungkinan Anda akan menemukan beberapa penjelasan umum yang mirip, kemungkinan juga masing-masing memiliki definisi yang berbeda.
 
-Dalam mata pelajaran ini, kita mendefinisikan komputer sebagai perangkat yang menerima input dan memprosesnya dengan cara tertentu untuk menghasilkan output secara otomatis. Berdasarkan definisi tersebut, Anda mungkin melihat bagaimana keempat perangkat yang ditunjukkan di atas dapat dianggap sebagai komputer. Anda mungkin menggaruk-garuk kepala sambil berpikir, "Oke, tunggu dulu ...". Jika ya, bagus! Anda sudah memulai proses berpikir kritis.
+Dalam mata pelajaran ini, kita mendefinisikan komputer sebagai *perangkat yang menerima input dan memprosesnya dengan cara tertentu untuk menghasilkan output secara otomatis*. Berdasarkan definisi tersebut, Anda mungkin melihat bagaimana keempat perangkat yang ditunjukkan di atas dapat dianggap sebagai komputer. Anda mungkin menggaruk-garuk kepala sambil berpikir, "Oke, tunggu dulu ...". Jika ya, bagus! Anda sudah memulai proses berpikir kritis.
 
 ## Menulis? Saya kira Saya di sini untuk melakukan pemrograman!
 
