@@ -1,4 +1,4 @@
-# Masalah Tulis: Sekitar Rumah
+# Masalah Tertulis: Sekitar Rumah
 
 ## Singkat Kata
 
