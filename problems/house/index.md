@@ -62,6 +62,8 @@ Buka editor teks (pastikan ekstensi file adalah .docx). Tidak lebih dari 400 kat
 
 Lakukan sedikit riset (formal atau informal), dan jika Anda mencurigai orang lain mungkin skeptis dengan pernyataan Anda bahwa perangkat yang Anda pilih adalah komputer, tulislah secara persuasif untuk meyakinkan orang-orang bahwa Anda tidak gila dan Anda tahu apa yang Anda bicarakan.
 
+Pastikan Anda mencantumkan sumber yang digunakan dalam esai Anda (link. judul buku, dsb), jika ada.
+
 ## Kapan Harus Dilakukan
 
 Sampai waktu yang diperlihatkan di Google Classroom masing-masing.
