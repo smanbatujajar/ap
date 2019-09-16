@@ -71,12 +71,14 @@ Sampai waktu yang diperlihatkan di Google Classroom masing-masing.
 1. Buat sebuah file Microsoft Word (.DOCX) dengan format sebagai berikut:  
 KELAS_TUGAS 2.1_NAMA LENGKAP  
 contoh: X MIPA 7_TUGAS 2.1_DIMAS AHMAD EKA PUTRA
-2. Kunjungi Google Classroom dan cari tugas dengan judul "[Tugas 2.1] Sekitar Rumah.
+2. Kunjungi Google Classroom dan cari tugas dengan judul "[Tugas 2.1] Sekitar Rumah".
 3. Kumpulkan file DOCX.
 4. Klik "Tandai selesai" atau "Mark as done".
 
 Anda dapat mengulangi pengiriman sebanyak apapun yang Anda inginkan sebelum batas waktu pengumpulan.
 
 Jika Anda menemui masalah dengan langkah di atas, silakan hubungi guru mata pelajaran.
+
+***
 
 <sup><b id="fn-1">1.</b> Serius! Dalam dunia nyata, berbagai proyek sering kali memiliki spesifikasi seperti ini, dan sangat penting untuk mematuhi spesifikasi tersebut dengan tepat sehingga Anda memenuhi lingkup pekerjaan. Jadi buatlah tulisan Anda 400 kata, maksimal!</sup>
