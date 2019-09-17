@@ -8,4 +8,9 @@
 * Video
   * Coming soon
 * Lembar Referensi
-  * Coming soon
+  * [Biner]({{ "/assets/pdfs/biner.pdf" | relative_url }})
+  * [CPU dan SOC]({{ "/assets/pdfs/cpu_dan_soc.pdf" | relative_url }})
+  * [Komputer dan Komputasi]({{ "/assets/pdfs/komputer_dan_komputasi.pdf" | relative_url }})
+  * Bagaimana Komputer Bekerja (coming soon)
+  * Memori (coming soon)
+  * Transistor dan Logika (coming soon)
