@@ -5,107 +5,108 @@
 {:toc}
 
 
-## Binary
+## Biner
 
-- We use computers everyday
-- Inside a computer are "0s and 1s"
-  - Computers use the binary number system to represent info
-    - How do computers represent info with just binary?
-- Consider the decimal number (what we human typically use) 123
-  - The rightmost column is the 1s column
-  - The middle, the 10s
-  - The leftmost, the 100s
+- Kita menggunakan komputer setiap hari
+- Di dalam sebuah komputer adalah "0 dan 1"
+  - Komputer menggunakan sistem angka biner untuk merepresentasikan informasi
+    - Bagaimana komputer merepresentasikan informasi hanya dengan biner?
+- Pikirkan angka desimal (yang kita manusia sering gunakan) 123
+  - Kolom paling kanan adalah kolom 1an
+  - Yang tengah, 10an
+  - Yang paling kiri, 100an
 
-    |100| 10|  1|
+    |100an| 10an|  1an|
     |:--:|:--:|:--:|
     |1  |2  |3  |
 
-  - Thus we have 100 x 1 + 10 x 2 + 1 x 3 = 100 + 20 + 3 = 123
-- Inside a computer, the binary 000 would represent 0, just like in our human world!
-  - However, in this case we are dealing with binary so:
-    - The right most column is the 1s place
-    - The middle, the 2s
-    - The leftmost, the 4s
+  - Sehingga kita memiliki 100 x 1 + 10 x 2 + 1 x 3 = 100 + 20 + 3 = 123
+- Dalam sebuah komputer, biner 000 akan merepresentasikan 0, sama seperti di kehidupan manusia!
+  - Namun, dalam kasus ini kita menghadapi biner sehingga:
+    - Kolom paling kanan adalah posisi 1an
+    - Yang tengah, 2an
+    - Yang paling kiri, 4an
 
     |4| 2|  1|
     |:--:|:--:|:--:|
     |0  |0  |0  |
 
-  - In the human world (decimal) we use powers of 10 for place values
-    - 10<sup>0</sup> = 1, 10<sup>1</sup> = 10, 10<sup>2</sup> = 100, 10<sup>3</sup> = 1000, etc.
-  - In the computer world (binary) we use powers of 2 for place values
-    - 2<sup>0</sup> = 1, 2<sup>1</sup> = 2, 2<sup>2</sup> = 4, 2<sup>3</sup> = 8, etc.
-  - The difference between decimal numbers and binary numbers is changing the base
-  - For the binary number 000, we have 4 x 0 + 2 x 0 + 1 x 0 = 0 + 0 + 0 = 0!
-- Consider the binary number 001:
+  - Dalam dunia manusia (desimal) kita menggunakan pangkat dari 10 untuk nilai setiap posisi
+    - 10<sup>0</sup> = 1, 10<sup>1</sup> = 10, 10<sup>2</sup> = 100, 10<sup>3</sup> = 1000, dst.
+  - Dalam dunia komputer (biner) kita menggunakan pangkat dari 2 untuk nilai setiap posisi
+    - 2<sup>0</sup> = 1, 2<sup>1</sup> = 2, 2<sup>2</sup> = 4, 2<sup>3</sup> = 8, dst.
+  - Perbedaan dari angka desimal dan angka biner adalah perbedaan basis angkanya
+  - Untuk angka biner 000, kita mimiliki 4 x 0 + 2 x 0 + 1 x 0 = 0 + 0 + 0 = 0
+- Pikirkan angka biner 001:
 
   |4| 2|  1|
   |:--:|:--:|:--:|
   |0  |0  |0  |
 
-  - We have 4 x 0 + 2 x 0 + 1 x 1 = 0 + 0 + 1 = 1
-- How do we represent the decimal number 2 in binary?
-  - We don't need a 4, be we need a 2, and also no 1
+  - Kita memiliki 4 x 0 + 2 x 0 + 1 x 1 = 0 + 0 + 1 = 1
+- Bagaimana kita merepresentasikan angka desima 2 dalam biner?
+  - Kita tidak membutuhkan 4, namun kita membutuhkan 2, dan tidak membutuhkan 1
 
   |4| 2|  1|
   |:--:|:--:|:--:|
   |0  |1  |0  |
 
-  - This gives us 4 x 0 + 2 x 1 + 1 x 0 = 0 + 2 + 0 = 2
-- Likewise, the number 3 would be:
+  - Kita mendapatkan 4 x 0 + 2 x 1 + 1 x 0 = 0 + 2 + 0 = 2
+- begitu juga, angka 3 akan menjadi:
 
   |4| 2|  1|
   |:--:|:--:|:--:|
   |0  |1  |1  |
 
-  - As we need a 2 and a 1
-  - Thus, 4 x 0 + 2 x 1 + 1 x 1 = 0 + 2 + 1 = 3
-- Similarly, 4 would be:
+  - Karena kita membutuhkan 2 dan 1
+  - Jadi, 4 x 0 + 2 x 1 + 1 x 1 = 0 + 2 + 1 = 3
+- Demikian pula, 4 akan menjadi:
 
   |4| 2|  1|
   |:--:|:--:|:--:|
   |1  |0  |0  |
 
-- What about 7?
+- Bagaimana dengan 7?
 
   |4| 2|  1|
   |:--:|:--:|:--:|
   |1  |1  |1  |
 
-  - Which yields 4 x 1 + 2 x 1 + 1 x 1 = 4 + 2 + 1 = 7
-- What about 8?
-  - We can't count to 8 without another bit (binary digit)
-    - We run into this in the real world too if we need a four-digit number vs a 3-digit number
-      - Start with the 1s, 10s, 100s place and add the 1000s
-    - Here we'll add the next power of 2, 8
+  - Yang menghasilkan 4 x 1 + 2 x 1 + 1 x 1 = 4 + 2 + 1 = 7
+- Bagaimana dengan 8?
+  - Kita tidak dapat menghitung sampai 8 tanpa menambah bit (*binary digit* / digit biner) lain
+    - Kita juga mengalami hal ini di dunia nyata jika kita membutuhkan angka empat digit vs angka 3 digit
+      - Mulai dari 1an, 10an, 100an, dan tambah 1000an
+    - Di sini kita akan menambahkan pangkat dari 2 selanjutnya, 8
 
     |8|4| 2|  1|
     |:--:|:--:|:--:|:--:|
     |1  |0  |0  |0  |
 
     - 8 x 1 + 4 x 0 + 2 x 0 + 1 x 0 = 8
-- Just like decimal numbers (base 10), numbers represent larger values on the left side and decrease as we move right.
-- So if we wanted to compare the binary numbers 1001 and 1010 we could start on the far left side of the number and look for where the numbers differ. The one with a 1 will be larger than the one with a 0.
+- Sama seperti angka desimal (basis 10), angka mewakili nilai yang lebih besar dari sisi kiri dan berkurang ketika kita bergerak ke kanan.
+- jadi jika kita ingin membandingkan angka-angka biner 1001 dan 1010 kita bisa mulai dari sisi angka paling kiri dan mencari di mana angka-angka tersebut berbeda.
+  - Sama seperti desimal, dimana 10an lebih besar dari 1an
+    - Dalam biner, 2an lebih besar dari 1an
 
-|8|4|2|1|
-|:--:|:--:|:--:|:--:|
-|1|0|**_0_**|1|
-|1|0|**_1_**|0|
+    |8|4|2|1|
+    |:--:|:--:|:--:|:--:|
+    |1|0|**_0_**|1|
+    |1|0|**_1_**|0|
 
-- Even though computers only use binary, they can count as high as humans can!
-  - They do it with a smaller vocabulary, just 1 and 0.
-    - This is because it's easier to represent two states in the physical world
-      - If you think of one of these bits as being a light bulb:
-        - 0 is off
-        - 1 is on
-      - Light bulbs just need electricity to turn on or off
-      - Electricity is sufficient to turn a switch on or off
-        - Inside a computer exists these switches called transistors
-          - Modern computers have billions!
-          - Turned off represents 0
-          - Turned on represents 1
-- Using these transistors we can store values, store data, compute, and do everything we can with computers
-- David demonstrates how transistors work using light bulbs
+- Meskipun komputer hanya menggunakan biner, mereka dapat menghitung setinggi kemampuan manusia!
+  - Mereka melakukannya dengan kosakata yang lebih kecil, 1 dan 0.
+    - Ini karena lebih mudah merepresentasikan dua keadaan di dunia fisik
+      - Jika Anda berpikir salah satu dari bit ini seperti lampu:
+        - 0 adalah mati
+        - 1 adalah nyala
+      - Lampu hanya membutuhkan listrik untuk menyala dan mati
+      - Listrik cukup untuk menghidupkan atau mematikan sakelar
+        - Di dalam komputer ada sakelar yang disebut transistor
+          - Komputer modern punya milyaran!
+          - Dimatikan mewakili 0
+          - Dinayalan mewakili 1
+- Menggunakan transistor ini kita dapat menyimpan nilai, menyimpan data, berhitung, dan melakukan semua yang kita bisa dengan komputer
 - So far all that we can represent is numbers
   - A decision needs to be made on what pattern of 1s and 0s to represent letters, words, and paragraphs
   - All computers can store is 0s and 1s
