@@ -300,6 +300,7 @@
 - USB-C lebih baru dan dapat dicolokkan tanpa perlu memperhatikan orientasinya
 - Varian lain sering terlihat pada ponsel
 - Koneksi USB jadul lebih lambat saat mentransfer data
+  - Warna biru pada bagian dalam menunjukkan USB versi 3, generasi terbaru yang memiliki kecepatan transfer data paling tinggi
   - Hard drive dapat dikoneksikan melalui USB
     - Meskipun hard drive cepat, namun jika sambungan USB yang digunakan lambat, maka transfer data akan lambat
 
