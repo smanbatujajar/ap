@@ -121,7 +121,7 @@
     - ASCII juga memiliki pemetaan untuk *control character*
       - *Control character* tidak merepresentasikan simbol
         - 9 (HT) digunakan untuk memberikan tab
-        - 10 (LF) digunakan untuk memberikan garis baru (enter)
+        - 10 (LF) digunakan untuk memberikan baris baru (enter)
         - 32 (SP) digunakan untuk memberikan spasi
   - Program seperti notepad, textedit, dan Microsoft Word memutuskan apakah akan menampilkan pola bit sebagai huruf atau kata
     - Komputer hanya menyimpan 0 dan 1, tetapi program menafsirkan bit-bit itu dengan cara tertentu
