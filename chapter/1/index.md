@@ -2,7 +2,7 @@
 
 {% include alert.md %}
 
-* Catatan (coming soon)
+* [Catatan](notes)
 * Tugas
   * [Sekitar Rumah]({{ "/problems/house" | relative_url }})
 * Video

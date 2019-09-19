@@ -27,7 +27,7 @@
     - Yang tengah, 2an
     - Yang paling kiri, 4an
 
-    |4| 2|  1|
+    |4an| 2an|  1an|
     |:--:|:--:|:--:|
     |0  |0  |0  |
 
@@ -41,10 +41,10 @@
 
   |4| 2|  1|
   |:--:|:--:|:--:|
-  |0  |0  |0  |
+  |0  |0  |1  |
 
   - Kita memiliki 4 x 0 + 2 x 0 + 1 x 1 = 0 + 0 + 1 = 1
-- Bagaimana kita merepresentasikan angka desima 2 dalam biner?
+- Bagaimana kita merepresentasikan angka desimal 2 dalam biner?
   - Kita tidak membutuhkan 4, namun kita membutuhkan 2, dan tidak membutuhkan 1
 
   |4| 2|  1|
@@ -107,28 +107,33 @@
           - Dimatikan mewakili 0
           - Dinayalan mewakili 1
 - Menggunakan transistor ini kita dapat menyimpan nilai, menyimpan data, berhitung, dan melakukan semua yang kita bisa dengan komputer
-- So far all that we can represent is numbers
-  - A decision needs to be made on what pattern of 1s and 0s to represent letters, words, and paragraphs
-  - All computers can store is 0s and 1s
-  - To represent letters, we need a mapping of 0s and 1s to characters
-    - ASCII (American Standard Code for Information Interchange) does this
+- Sejauh ini yang bisa kita wakili hanyalah angka
+  - Keputusan dan kesepakatan harus dibuat tentang pola 1 dan 0 yang mewakili huruf, kata, dan paragraf
+  - Yang dapat disimpan komputer hanyalah 0 dan 1
+  - Untuk merepresentasikan huruf, kita membutuhkan pemetaan 0 dan 1 ke karakter
+    - ASCII (American Standard Code for Information Interchange) adalah salah satunya
 
     ![ascii chart](ascii.png)
 
     - 65 -> A, 66 -> B, 67 -> C, etc.
     - 97 -> a, 98 -> b, 99 -> c, etc.
-    - ASCII also has mapping for punctuation symbols
-  - Programs like notepad, textedit, and MicroSoft Word decide weather to display patterns of bits as letters or words
-    - Computers only store 0s and 1s, but the programs interpret those bits in a certain way
-      - For example, if MicroSoft word sees a pattern of buts representing the number 65, it will interpret that as "A"
-  - ASCII is limited
-    - Original ASCII is 7 bits, thus giving 128 characters
-      - Extended ASCII is 8 bits, yielding 256 characters
-    - Many symbols are not represented
-  - UNICODE is a bigger set of characters that includes written languages other than English and even emoji! 😲
-    - All are still represented by a pattern of bits
-- Consider this pattern of bits: 01001000 01001001
-  - 16 bits or 2 bytes (1 byte = 8 bits)
+    - ASCII memiliki pemetaan untuk simbol tanda baca
+    - ASCII juga memiliki pemetaan untuk *control character*
+      - *Control character* tidak merepresentasikan simbol
+        - 9 (HT) digunakan untuk memberikan tab
+        - 10 (LF) digunakan untuk memberikan garis baru (enter)
+        - 32 (SP) digunakan untuk memberikan spasi
+  - Program seperti notepad, textedit, dan Microsoft Word memutuskan apakah akan menampilkan pola bit sebagai huruf atau kata
+    - Komputer hanya menyimpan 0 dan 1, tetapi program menafsirkan bit-bit itu dengan cara tertentu
+      - Misalnya, jika Microsoft Word melihat pola bits yang mewakili angka 65, dia akan menafsirkannya sebagai "A"
+  - ASCII terbatas
+    - ASCII original panjangnya 7 bits, sehingga hanya dapat memberikan 128 karakter
+      - ASCII yang diperluas panjangnya 8 bits, menghasilkan 256 karakter
+    - Banyak simbol yang tidak dapat direpresentasikan
+  - UNICODE adalah serangkaian karakter yang lebih besar yang mencakup huruf tertulis selain romawi dan bahkan emoji! 😲
+    - Semuanya masih direpresentasikan dengan pola bits
+- Pikirikanlah pola bits berikut: 01001000 01001001
+  - 16 bits atau 2 bytes (1 byte = 8 bits)
 
   |128|64|32|16|8|4|2|1| |128|64|32|16|8|4|2|1|
   |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -139,188 +144,192 @@
   | 72 | 73 |
   | H | I |
 
-  - Using ASCII we get the word "HI"
+  - Menggunakan ASCII kita mendapatkan kata "HI"
 
-## CPU
+## CPU (Central Processing Unit)
 
-- If you have heard that your computer has "Intel Inside," it has an Intel processor in it
+- Jika Anda pernah mendengar bahwa komputer Anda memiliki "Intel Inside", didalamnya ada processor Intel
 
   ![CPU](cpu.png)
 
-  - The backside of the processor has pins that connect into the motherboard
-- The motherboard is a circuit board made of silicon
-- The CPU is the brain of the computer
-  - Does all the thinking
-  - Performs math in numbers fed to it
-  - Helps display numbers on a screen
-  - Adds or deletes numbers
-- CPUs now can have multiple cores
-  - Cores are the devices inside the CPU that can preform mathematical operations, load info from memory, save info to memory, etc.
-  - The more cores, the more tasks a CPU can do at once
-- CPUs now also support hyper-threading
-  - Where a single core will present itself as multiple cores to a computer's operating system
-- Systems on a Chip (SoaC) are when a CPU and more are all interconnected at once rather than attached to a motherboard
-  - Popular in phones, tables, and game consoles
+  - Di bagian belakang dari prosesor ada pin yang terkoneksi ke motherboard
+- Motherboard adalah papan sirkuit yang terbuat dari silikon
+- CPU adalah otak dari komputer
+  - Melakukan semua pemikiran
+  - Melakukan perhitungan dengan angka yang dimasukkan kedalamnya
+  - Membantu menampilkan angka pada layar
+  - Menambah atau mengurangi angka
+- CPU saat ini memiliki beberapa core
+  - Core adalah perangkat di dalam CPU yang dapat melakukan operasi matematika, memuat informasi dari memori, menyimpan informasi ke memori, dsb.
+  - Semakin banyak core, semakin banyak tugas yang dapat dilakukan CPU dalam waktu bersamaan
+- CPU saat ini juga mendukung hyper-threading
+  - Ketik satu core akan terlihat sebagai beberapa core pada sistem operasi komputer
+- Systems on a Chip (SoaC) adalah ketika CPU dan lainnya saling terhubung dalam satu paket chip daripada melekat terpisah di motherboard
+  - Populer di ponsel, tablet, dan konsol game
   - Raspberry Pi
 
     ![raspberry pi](pi.png)
 
 ## RAM (Random Access Memory)
-- Circuit board with chips that slides into a slot on the motherboard
+- Papan sirkuit dengan chip yang diselipkan pada slot yang ada pada motherboard
 
   ![ram](ram.png)
-  - The chips store data
-    - Only stores data when the power is on
-  - Files and programs are loaded onto these chips when ran
-  - Fast memory
-- You can check your RAM and other specs:
+
+  - Chip tersebut menyimpan data
+    - Hanya menyimpan data ketika listrik menyala
+  - File dan program dimuat ke dalam chip tersebut ketika dijalankan
+  - Memori yang cepat
+- Anda dapat melihat RAM dan spesifikasi lainnya:
   - Windows Task Manager
 
     ![windows task manager](windows.png)
-    - CPU chart shows when peak usage occurs
-    - GHz is the number of operations a CPU can perform per second (in billions)
-      - 1.94 GHz = 1.94 billion operations per second
-    - Logical processors in this case is 4, which means both cores support hyper-threading
-      - Each core will do two things at once as if 4 cores exist
+
+    - Bagan CPU menunjukkan kapan penggunaan puncak terjadi
+    - GHz adalah jumlah operasi yang dapat dilakukan CPU per detik (dalam milyaran)
+      - 1.94 GHz = 1.94 milyar operasi per detik
+    - *Logical processors* dalam kasus ini ada 4, yang maksudnya setiap core mendukung hyper-threading
+      - Tiap core akan melakukan dua hal sekaligus seakan-akan terdapat 4 core
   - Mac System Profiler
 
     ![mac](mac.png)
 
 ## Hard Drives
 
-- When you turn a computer off, you need a place to store data
-  - A hard disk drive (HDD) stores this information
+- Ketika komputer dimatikan, Anda butuh tempat untuk menyimpan data
+  - *Hard disk drive* (HDD) menyimpan informasi tersebut
 
     ![hard drive exterior](hddout.png)
-  - RAM may store 1 GB, 2 GB, 4 GB, through 16 GB or so
-  - HDD stores 256 GB, 1024 GB (AKA terabyte or TB), 2 TB
-  - Inside a HDD, metal platters physically spin around
+
+  - RAM mungkin menyimpan 1 GB, 2 GB, 4 GB, hingga 16 GB dan seterusnya
+  - HDD menyimpan 256 GB, 1024 GB (juga dikenal sebagai terabyte or TB), 2 TB, dan seterusnya
+  - Di dalam HDD, adalah plat logam yang secara fisik berputar
 
     ![hard drive interior](hddinside.png)
 
-      - Data is stored on these disks
-      - The reading heads move back and forth reading data from the device
-      - Uses tiny magnetic particles where north pole orientation represents 1 and south pole orientation represents 0
-        - Power is only needed to read or change the data
-          - Data is preserved when power is off
-      - David shows a video of a HDD running in slowmo
-- To store data in a hard drive, RAM sends data and instructions to the HDD
-  - The hard drive translates that data into voltage fluctuations
-    - Some signals spin the platters, others move the read/write heads
-    - Pulses sent to the read/write head turn on a magnet which creates a field that changes the polarity of a tiny portion of the metal platter's surface
-    - Power is sent in different directions as to change polarity
-  - To read, the particles on the disk use their charge to move the read/write head.
-  - Pieces of a file can be spread out around the platters
-    - A special file keeps track of data's location
-  - Anytime you have a physical device that moves over a period of time, things go wrong
-    - Dropping a HDD can corrupt files
-  - Platters spin slower than how fast electrons move
+      - Data disimpan di piringan ini
+      - Kepala pembaca bolak-balik membaca data dari perangkat
+      - Menggunakan partikel magnetik kecil di mana orientasi kutub utara mewakili 1 dan orientasi kutub selatan mewakili 0
+        - Listrik hanya dibutuhkan saat membaca atau mengubah data
+          - Data disimpan ketika daya dimatikan
+      - Guru memperlihatkan video bagaimana HDD berputar dalam gerakan lambat
+- Untuk menyimpan data dalam hard drive, RAM mengirim data dan perintah ke HDD
+  - Hard drive menerjemahkan data itu menjadi fluktuasi tegangan
+    - Ada sinyal yang memutar piringan logam, sinyal yang lain memindahkan kepala baca / tulis
+    - Sinyal yang dikirim ke kepala baca / tulis nyalakan magnet yang menciptakan bidang yang mengubah polaritas sebagian kecil permukaan pelat logam
+    - Daya dikirim ke berbagai arah untuk mengubah polaritas
+  - Untuk membaca, partikel pada disk dibaca muatannya dengan menggerakkan kepala baca / tulis
+  - Potongan-potongan file dapat tersebar di sekitar piringan
+    - File khusus melacak lokasi data
+  - Kapan pun Anda memiliki perangkat fisik yang bergerak dalam periode waktu tertentu, ada kemungkinan kesalahan terjadi
+    - Menjatuhkan HDD dapat merusak file
+  - Piring berputar lebih lambat dari seberapa cepat elektron bergerak
 
 ## Flash Memory
 
 - Solid state disk (SSD)
 
   ![solid state drive exterior](ssdout.png)
-  - Smaller (3.5 inch width for HDD vs 2.5 inch width for SSD)
-    - Still fits where old HDDs are
-  - No moving particles
-  - Inside, it looks a lot like RAM
+
+  - Lebih kecil (lebar 3.5 inci untuk HDD vs lebar 2.5 inci untuk SSD)
+    - Masih cocok dengan HDD lama
+  - Tidak ada partikel yang bergerak
+  - Di dalam, sangat mirip RAM
 
     ![solid state drive interior](ssdinside.png)
-  - Much faster than HDD
-    - Programs/files load and save more quickly
-  - SSD theoretically don't last as long as HDD
-    - Finite number of writes
-- Hybrid Drives
-  - Some GB of solid state memory and more GB or TB of HDD space
-  - Stores as much of frequently-needed data on the SSD
-  - Stores less frequently-needed data on HDD
-- Flash memory also exists in the form of USB sticks
-  - Might store 1 GB, 16 GB, or more
-  - Portable
-- External SSDs exist for more storage
-  - Might store 256 GB or more
-  - Can be used to share data with others without network usage
-- Can also have external HDD
 
-## Types of Memory and Funneling
+  - Jauh lebih cepat dari HDD
+    - Program / file dimuat dan disimpan lebih cepat
+  - SSD secara teoritis tidak bertahan selama HDD
+    - Jumlah penulisan data yang terbatas
+- *Hybrid Drives*
+  - Beberapa GB memori solid state dan lebih banyak GB atau TB ruang HDD
+  - Menyimpan sebanyak mungkin data yang sering diakses pada SSD
+  - Menyimpan data yang lebih jarang dibutuhkan pada HDD
+- Memori flash juga ada dalam bentuk stik USB
+  - Mungkin menyimpan 1 GB, 16 GB, atau lebih
+  - Portable, praktis dibawa kemana-mana
+- HDD eksternal juga tersedia untuk penyimpanan lebih besar
+  - Mungkin menyimpan 256 GB atau lebih
+  - Dapat digunakan untuk berbagi data dengan orang lain menggunakan USB
+- NAS, *Network Attached Storage*, dapat diakses menggunakan jaringan internet di dalam rumah atau kantor
+  - Memudahkan akses dari beberapa perangkat sekaligus menggunakan kabel jaringan atau wifi
 
-- There is a tradeoff between space, money, and speed of data transfer
+## Tipe Memori dan Pencorongan
+
+- Ada yang harus dikorbankan antara ruang, uang, dan kecepatan transfer data
 
   ![funnel](funnel.png)
-  - Data is pushed "down the funnel" to your CPU
-    - From the hard drive, data first goes to the RAM
+
+  - Data ditemakn "masuk ke corong" menuju CPU Anda
+    - Dari hard drive, data pertama masuk ke RAM
 
       ![tradeoffs](tradeoff.png)
 
-    - Theoretically, the CPU never has to wait for data to crunch
-    - There is a tiny amount of memory (bytes) called registers where numbers are stored for operations.
-    - Memory at the bottom is more expensive
-    - Disk is important for the long-term storage
-    - RAM is important as it stores programs you use simultaneously
-    - L3, L2, L1 cache are on the motherboard
-- As an analogy for memory, picture a candy store
-  - A customer approaches the counter and requests candy
-  - The shop owner then leaves the counter to grab the candy before returning moments later
-    - Not super efficient to walk all the way to the store room to grab candy
-      - Better to have a cache of memory
-  - Instead, the shop owner leaves the counter to ready a cache of candy before the customers arrive
-  - When a customer comes, the candy can be distributed quickly
-    - Cache memory similarly helps the CPU in this manner
-- We can see sizes of cache looking at computer specs like before
+    - Secara teori, CPU tidak pernah harus menunggu data untuk dikunyah
+    - Ada sejumlah kecil memori (byte) yang disebut register di mana angka disimpan untuk operasi.
+    - Memori di paling bawah lebih mahal
+    - Disk sangat penting untuk penyimpanan janga panjang
+    - RAM penting karena menyimpan program yang Anda jalankan secara simultan
+    - L3, L2, L1 cache ada pada motherboard
+- Sebagai analogi memori, bayangkan toko permen
+  - Seorang pelanggan mendekati kasir dan meminta permen
+  - Pemilik toko kemudian meninggalkan kasir untuk mengambil permen sebelum kembali beberapa saat kemudian
+    - Tidak super efisien untuk berjalan jauh ke ruang toko untuk mengambil permen
+      - Lebih baik memiliki cache memori
+  - Sebaliknya, pemilik toko meninggalkan konter untuk menyiapkan setumpuk permen sebelum pelanggan tiba
+  - Ketika pelanggan datang, permen dapat didistribusikan dengan cepat
+    - Memori cache juga membantu CPU dengan cara ini
+- Kita bisa melihat ukuran cache dengan melihat spesifikasi komputer seperti sebelumnya
 
-## Display Connectors
+## Konektor Layar
 
 ![display](display.png)
 
-- These sockets all connect to monitors or displays
-- Mini DisplayPort are used form monitors
-- HDMI is not only on laptops and computers but also TVs
-- VGA is older, but still commonly uses on projectors
+- Soket-soket ini semuanya tersambung ke monitor atau layar
+- Mini DisplayPort biasa ditemukan pada laptop highend
+- DisplayPort biasa ditemukan pada komputer
+- HDMI tidak hanya ada di laptop dan komputer tapi juga TV
+- VGA lebih tua, tapi masih sering digunakan di proyektor
 
 ## USB (Universal Serial Bus)
 
 ![usb](usb.png)
-- Can plug in a whole range of peripheral devices including printers, keyboards, mice, scanners, etc.
-- USB-A most common
-- USB-B is often used for printers and scanners
-- USB-C is newer and can be plugged in coming from different directions
-- Other variants often exist for phones
-- Older USB connections are slower when transferring data
-  - Hard drives can connect via USB
-    - Even if a hard drive is fast, if the USB is slow, the transfer of data will be slow
+- Anda dapat menghubungkan berbagai perangkat tambahan termasuk printer, keyboard, mouse, scanner, dsb.
+- USB-A paling umum
+- USB-B sering digunakan untuk printer dan scanner
+- USB-C lebih baru dan dapat dicolokkan tanpa perlu memperhatikan orientasinya
+- Varian lain sering terlihat pada ponsel
+- Koneksi USB jadul lebih lambat saat mentransfer data
+  - Hard drive dapat dikoneksikan melalui USB
+    - Meskipun hard drive cepat, namun jika sambungan USB yang digunakan lambat, maka transfer data akan lambat
 
 ## Wireless
 
-- Wifi is wireless internet
-- Bluetooth allows devices such as wireless keyboards and headphones to connect to your computer
-  - Limited range
-    - This is ok as it is used for you to connect to your own device
+- Wifi adalah internet tanpa kabel atau nirkabel
+- Bluetooth memungkinkan perangkat seperti keyboard nirkabel dan headphone terhubung ke komputer Anda
+  - Jaraknya terbatas
+    - Tidak masalah selama digunakan untuk menghubungkan perangkat milik Anda sendiri
 
 ## Operating System (OS)
 
-- Software that ensures all devices work and can intercommunicate
-- MacOS and Windows are popular OS
-- Can be installed by the user, but is typically done so by a manufacturer
-  - Installed on HDD or SDD so that it exists persistently without power
-- When you hit power on your computer, the OS is loaded into RAM
-- Gives you the graphical interface that you see
-- Knows how to:
-  - Talk to your keyboard and mouse
-  - Display info on the screen
-  - Move things around in memory
-- This is all thanks to device drivers installed with the OS
-  - Special software designed to talk to certain model of printer, camera, scanner, etc.
-- When an OS doesn't recognize a device, perhaps because it's too new, you can download new device drives from the device manufacturer
-  - Teaches Window, MacOS, or Linux about that new hardware
-  - Future-proofing structure
-- It's this intersection of hardware and software that makes computers powerful!
+- Software yang menjamin setiap perangkat bekerja dan dapat saling berkomunikasithat ensures all devices work and can intercommunicate
+- MacOS dan Windows adalah OS yang paling populer
+- Dapat dipasang oleh user, namun biasanya sudah dilakukan oleh pabrik
+  - Dipasang di HDD atau SSD sehingga tidak akan hilang saat tidak ada listrik
+- Ketika menyalakan komputer, OS akan dimuat kedalam RAM
+- Memberikan tampilan grafis yang bisa kita lihat
+- Tahu bagaimana untuk:
+  - Berkomunikasi dengan keyboard dan mouse
+  - Menampilkan informasi di layar
+  - Memindahkan berbagai hal di dalam memori
+- Ini semua berkat driver piranti yang terpasang di OS
+  - Software khusus didesain untuk berkomunikasi dengan model tertentu printer, kamera, scanner, dsb.
+- Ketika sebuah OS tidak mengenali perangkat, mungkin karena perangkat tersebut terlalu baru, Anda dapat mengunduh driver perangkat baru di website pembuat perangkat tersebut.
+  - Mengajarkan Windows, MacOS, atau Linux tentang hardware baru tersebut.
+- Persimpangan perangkat keras dan lunak inilah yang membuat komputer hebat!
 
-## Looking Underneath the Hood
+## Melihat Lebih Dekat
 
-- David and Colton Ogden look at the exterior of an old ThinkPad computer, examining ports
-  - Power bricks convert power from the wall into safe amounts for the computer
-- David and Colton examine the inside of an old window desktop, highlighting the motherboard, heatsink, RAM, Hard Drive, etc.
-- David and Colton then look inside a HDD
-  - Once exposed to air and dust, it's no longer reliable enough to use
-- David and Colton then look at a motherboard examining all the ports on it
+- Melihat bagian luar dari sebuah laptop, menyebutkan setiap port yang ada
+  - Power supply yang berbentuk balok berfungsi mengubah listrik dari terminal yang tinggi menjadi nilai yang aman bagi komputer
+- Memeriksa bagian dalam dari sebuah komputer desktop, menyoroti motherboard, RAM, heatsink, dan lainnya.
