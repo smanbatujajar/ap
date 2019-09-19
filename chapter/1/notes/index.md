@@ -268,7 +268,7 @@
     - Secara teori, CPU tidak pernah harus menunggu data untuk dikunyah
     - Ada sejumlah kecil memori (byte) yang disebut register di mana angka disimpan untuk operasi.
     - Memori di paling bawah lebih mahal
-    - Disk sangat penting untuk penyimpanan janga panjang
+    - Disk sangat penting untuk penyimpanan jangka panjang
     - RAM penting karena menyimpan program yang Anda jalankan secara simultan
     - L3, L2, L1 cache ada pada motherboard
 - Sebagai analogi memori, bayangkan toko permen
