@@ -260,7 +260,7 @@
 
   ![funnel](funnel.png)
 
-  - Data ditemakn "masuk ke corong" menuju CPU Anda
+  - Data didorong "masuk ke corong" menuju CPU Anda
     - Dari hard drive, data pertama masuk ke RAM
 
       ![tradeoffs](tradeoff.png)
