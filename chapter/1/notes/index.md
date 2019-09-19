@@ -211,6 +211,7 @@
       - Menggunakan partikel magnetik kecil di mana orientasi kutub utara mewakili 1 dan orientasi kutub selatan mewakili 0
         - Listrik hanya dibutuhkan saat membaca atau mengubah data
           - Data disimpan ketika daya dimatikan
+      - Begitu terpapar udara dan debu, maka sudah tidak lagi cukup andal untuk digunakan
       - Guru memperlihatkan video bagaimana HDD berputar dalam gerakan lambat
 - Untuk menyimpan data dalam hard drive, RAM mengirim data dan perintah ke HDD
   - Hard drive menerjemahkan data itu menjadi fluktuasi tegangan
@@ -340,6 +341,6 @@
 
 ## Melihat Lebih Dekat
 
-- Guru memperlihatkan bagian luar dari sebuah laptop, menyebutkan setiap port yang ada
+- Guru memperlihatkan model 3D bagian luar dari sebuah laptop, menyebutkan setiap port yang ada
   - Power supply yang berbentuk balok berfungsi mengubah listrik dari terminal yang tinggi menjadi nilai yang aman bagi komputer
-- Guru memperlihatkan bagian dalam dari sebuah komputer desktop, menyoroti motherboard, RAM, heatsink, dan lainnya.
+- Guru memperlihatkan model 3D bagian dalam dari sebuah komputer desktop, menyoroti motherboard, RAM, heatsink, dan lainnya.

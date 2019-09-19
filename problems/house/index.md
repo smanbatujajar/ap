@@ -51,7 +51,7 @@ Mata pelajaran ini bertujuan untuk mendidik Anda secara lebih luas sebagai ilmua
 
 Silakan lihat-lihat rumah Anda. Adakah komputer di sekitar rumah? Bahkan meskipun Anda tidak memiliki laptop atau komputer desktop di tempat tinggal Anda, kemungkinan Anda memiliki lebih banyak komputer di rumah Anda daripada yang Anda bayangkan. Mungkin Anda punya smartphone? Mungkin Anda memiliki televisi layar datar atau sistem video game?
 
-Dalam masalah ini, kami ingin Anda berpikir lebih outside-the-box daripada itu. Ingatlah bahwa kami mendefinisikan komputer sebagai *perangkat yang menerima input, dan memprosesnya dengan cara tertentu untuk memperoleh hasil secara otomatis*. Tentunya ada beberapa perangkat di rumah Anda yang memenuhi definisi itu tetapi bukan sesuatu yang sebelumnya Anda sebut sebagai komputer. Jika Anda tidak dapat memikirkan perangkat seperti itu di rumah Anda, jangan ragu untuk menjelajah melampaui dinding dan pagar rumah Anda lalu pilih perangkat apa pun yang Anda kenal.
+Dalam masalah ini, kami ingin Anda berpikir lebih outside-the-box daripada itu. Ingatlah bahwa kita mendefinisikan komputer sebagai *perangkat yang menerima input, dan memprosesnya dengan cara tertentu untuk memperoleh hasil secara otomatis*. Tentunya ada beberapa perangkat di rumah Anda yang memenuhi definisi itu tetapi bukan sesuatu yang sebelumnya Anda sebut sebagai komputer. Jika Anda tidak dapat memikirkan perangkat seperti itu di rumah Anda, jangan ragu untuk menjelajah melampaui dinding dan pagar rumah Anda lalu pilih perangkat apa pun yang Anda kenal.
 
 Buka editor teks (pastikan ekstensi file adalah .docx). Tidak lebih dari 400 kata<sup>[\[1\]](#fn-1)</sup>, jelaskan perangkat ini secara detail. Anda mungkin ingin mempertimbangkan pertanyaan seperti:
 
