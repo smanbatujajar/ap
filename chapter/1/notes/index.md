@@ -329,6 +329,15 @@
   - Mengajarkan Windows, MacOS, atau Linux tentang hardware baru tersebut.
 - Persimpangan perangkat keras dan lunak inilah yang membuat komputer hebat!
 
+## Brainware
+
+- Komputer tidak akan bisa dioperasikan tanpa adanya campur tangan manusia.
+  - Semua pekerjaan yang dilakukan komputer adalah hasil dari pemikiran intelektual manusia
+- Nilai kebermanfaatan komputer bergantung pada bagaimana penggunanya mengoperasikan komputer
+  - Programmer menciptakan aplikasi yang dapat memecahkan masalah yang dihadapi orang
+  - Pembuat konten memberikan asupan hiburan dan seni dalam kehidupan kita
+  - Pengguna lainnya juga mendapatkan manfaat dari komputer dengan mempermudah pekerjaan sehari-hari
+
 ## Melihat Lebih Dekat
 
 - Guru memperlihatka bagian luar dari sebuah laptop, menyebutkan setiap port yang ada
