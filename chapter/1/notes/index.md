@@ -340,6 +340,6 @@
 
 ## Melihat Lebih Dekat
 
-- Guru memperlihatka bagian luar dari sebuah laptop, menyebutkan setiap port yang ada
+- Guru memperlihatkan bagian luar dari sebuah laptop, menyebutkan setiap port yang ada
   - Power supply yang berbentuk balok berfungsi mengubah listrik dari terminal yang tinggi menjadi nilai yang aman bagi komputer
 - Guru memperlihatkan bagian dalam dari sebuah komputer desktop, menyoroti motherboard, RAM, heatsink, dan lainnya.
