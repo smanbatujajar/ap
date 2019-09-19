@@ -5,6 +5,7 @@
 * [Catatan](notes)
 * Tugas
   * [Sekitar Rumah]({{ "/problems/house" | relative_url }})
+* [Slide]({{ "/assets/pdfs/hardware.pdf" | relative_url }})
 * Video
   * Coming soon
 * Lembar Referensi
