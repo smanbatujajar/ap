@@ -163,7 +163,7 @@
   - Core adalah perangkat di dalam CPU yang dapat melakukan operasi matematika, memuat informasi dari memori, menyimpan informasi ke memori, dsb.
   - Semakin banyak core, semakin banyak tugas yang dapat dilakukan CPU dalam waktu bersamaan
 - CPU saat ini juga mendukung hyper-threading
-  - Ketik satu core akan terlihat sebagai beberapa core pada sistem operasi komputer
+  - Ketika satu core akan terlihat sebagai beberapa core pada sistem operasi komputer
 - Systems on a Chip (SoaC) adalah ketika CPU dan lainnya saling terhubung dalam satu paket chip daripada melekat terpisah di motherboard
   - Populer di ponsel, tablet, dan konsol game
   - Raspberry Pi
@@ -314,11 +314,11 @@
 
 ## Operating System (OS)
 
-- Software yang menjamin setiap perangkat bekerja dan dapat saling berkomunikasithat ensures all devices work and can intercommunicate
+- Software yang menjamin setiap perangkat bekerja dan dapat saling berkomunikasi
 - MacOS dan Windows adalah OS yang paling populer
 - Dapat dipasang oleh user, namun biasanya sudah dilakukan oleh pabrik
   - Dipasang di HDD atau SSD sehingga tidak akan hilang saat tidak ada listrik
-- Ketika menyalakan komputer, OS akan dimuat kedalam RAM
+- Ketika menyalakan komputer, OS akan dimuat ke dalam RAM
 - Memberikan tampilan grafis yang bisa kita lihat
 - Tahu bagaimana untuk:
   - Berkomunikasi dengan keyboard dan mouse
