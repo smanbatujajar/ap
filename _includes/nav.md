@@ -7,6 +7,7 @@
 
 * [Bab 0]({{ "/chapter/0" | relative_url }}) Aplikasi Office
 * [Bab 1]({{ "/chapter/1" | relative_url }}) Sistem Komputer
+* [Bab 2]({{ "/chapter/2" | relative_url }}) Internet
 
 ***
 
