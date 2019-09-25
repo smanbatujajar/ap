@@ -2,7 +2,7 @@
 
 {% include alert.md %}
 
-* Catatan (coming soon)
+* [Catatan](notes)
 * Tugas
   * Coming soon
 * Slide (coming soon)
