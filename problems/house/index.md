@@ -75,11 +75,13 @@ KELAS_TUGAS 2.1_NAMA LENGKAP
 contoh: X MIPA 7_TUGAS 2.1_DIMAS AHMAD EKA PUTRA
 2. Kunjungi Google Classroom dan cari tugas dengan judul "[Tugas 2.1] Sekitar Rumah".
 3. Kumpulkan file DOCX.
-4. Klik "Tandai selesai" atau "Mark as done".
+4. Klik "Serahkan" atau "Mark as done".
 
 Anda dapat mengulangi pengiriman sebanyak apapun yang Anda inginkan sebelum batas waktu pengumpulan.
 
 Jika Anda menemui masalah dengan langkah di atas, silakan hubungi guru mata pelajaran.
+
+Ini adalah Sekitar Rumah, masalah pertama Anda di Informatika!
 
 ***
 

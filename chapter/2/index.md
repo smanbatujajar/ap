@@ -3,8 +3,8 @@
 {% include alert.md %}
 
 * [Catatan](notes)
-* Tugas
-  * Coming soon
+* Masalah
+  * [Menyoroti Teknologi]({{ "/problems/tech" | relative_url }})
 * Slide (coming soon)
 * Video
   * Coming soon
