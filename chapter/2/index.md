@@ -5,7 +5,7 @@
 * [Catatan](notes)
 * Masalah
   * [Menyoroti Teknologi]({{ "/problems/tech" | relative_url }})
-* Slide (coming soon)
+* [Slide]({{ "/assets/pdfs/internet.pdf" | relative_url }})
 * Video
   * Coming soon
 * Lembar Referensi
