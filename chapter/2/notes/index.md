@@ -55,7 +55,7 @@
   - Kirim permintaan ke server DNS ISP Anda untuk alamat IP Google
     - Jika server DNS ISP tidak mengetahui alamat IP suatu situs web, mereka akan menanyakan ke server DNS lainnya
     - Terdapat *root server* yang tahu kemana harus mencari alamat IP
-- Setelah mengirim permintaan, kita akan mendapatkan respons beberapa milisecond berikutnya
+- Setelah mengirim permintaan, kita akan mendapatkan respons beberapa milisecon berikutnya
 
   ![happy cat](happycat.jpg)
 
@@ -83,7 +83,7 @@
   - Juga termasuk aturan untuk jenis layanan (pengidentifikasi port)
     - Untuk memastikan Google tahu kita meminta halaman web dan bukan email atau layanan lainnya
 
-## Ports
+## Port
 
 - Berdasarkan TCP, dunia telah mementukan standar angka yang mewakili layanan yang berbeda
 - Jika 5.6.7.8 adalah alamat IP Google, 5.6.7.8:80 (port 80) memberitahukan kita bahwa kita menginginkan halaman web
@@ -95,7 +95,7 @@
 - Email menggunakan port 25
 - Port lain juga ada
 
-## Protocols
+## Protocol
 
 - Protokol hanyalah seperangkat aturan
   - Manusia menggunakan ini sepanjang waktu, seperti protokol untuk bertemu orang: berjabat tangan
@@ -108,10 +108,10 @@
 - User Datagram Protocol
   - Tidak menjamin keberhasilan pengiriman
   - Digunakan untuk *Video Call* seperti di WhatsApp
-    - Paket dapat dijatuhkan untuk menjaga agar percakapan terus mengalir
+    - Paket dapat diabaikan (*drop*) untuk menjaga agar percakapan terus mengalir
   - Digunakan kapan saja Anda ingin menerima data tanpa menunggu buffer terisi
 
-## IPs in More Detail
+## IP Lebih Detil
 
 - Alamat IP terbatas
   - Dalam format #.#.#.#, setiap angka adalah 8 bit, jadi total 32 bit
@@ -121,28 +121,28 @@
   - Bergerak menuju IPv6
     - Menggunakan 128 bit, menghasilkan 2<sup>128</sup> kemungkinan alamat
 - Bagaimana Anda menemukan alamat IP Anda?
-- On a Mac, go to system preferences an poke around a bit
+- Pada Mac, buka preferensi sistem dan cari sedikit
 
   ![mac](mac.png)
 
-- Private addresses exist
+- Terdapat alamat privat
   - 10.#.#.#, 192.168.#.#, or 172.16.#.#
-  - Only with special configuration can someone talk to your computer
-  - Your personal device is not a server, so people should not need to access them directly
-    - Your device needs to request data from servers
-  - Even email is stored on a server such as Gmail and your device makes a request to that server to access that email
-- Looking at advanced settings...
+  - Hanya dengan konfigurasi khusus seseorang dapat berbicara dengan komputer Anda
+  - Perangkat pribadi Anda bukan server, jadi orang tidak perlu mengaksesnya secara langsung
+    - Perangkat Anda perlu meminta data dari server
+  - Bahkan email disimpan di server seperti Gmail dan perangkat Anda membuat permintaan ke server itu untuk mengakses email
+- Melihat pengaturan lanjutan ...
 
   ![mac ethernet settings](macadv.png)
 
-  - Subnet mask is used to decide if another computer is on the same network
-  - Router (aka Gateway) has its own address
-    - Routs data in different directions
-- On windows:
+  - Subnet mask digunakan untuk memutuskan apakah komputer lain berada di jaringan yang sama
+  - Router (alias Gateway) memiliki alamatnya sendiri
+    - Mengatur arah data ke berbagai arah
+- Di windows:
 
   ![windows](windows.png)
 
-  - Shows DNS servers as well
+  - Memperlihatkan server DNS juga
 
 ## Routers
 
@@ -164,41 +164,39 @@
 
 ## Traceroute
 
-- How long does it take for this process of data transfer to take on the internet?
-- Traceroute is a program that sends packets to each router on a path to a destination, reporting the time it takes to reach that router
-- From Sanders Theatre to Google.com:
+- Berapa lama waktu yang dibutuhkan untuk proses transfer data di internet?
+- Traceroute adalah program yang mengirim paket ke setiap router di jalur ke tujuan, melaporkan waktu yang diperlukan untuk mencapai router tersebut
+- Dari SMAN 1 Batujajar ke google.com:
 
-  ![traceroute Google](traceroutegoogle.png)
+  ![traceroute Google](tracertgoogle.png)
 
-  - 1-2: A few unnamed routers at Harvard
-  - 3-4: More Harvard routers
-  - 5-6: Level3 is a ISP
-  - 7+: The routers are denying the request
-- From Sanders Theatre to Berkeley.edu
+  - 1-2: Beberapa router tidak bernama di SMAN 1 BatujajarA few unnamed routers at Harvard
+  - 3-5: Router tidak bernama milik ISP Telkom Indonesia
+  - 6-8: Router tidak bernama di Singapura milik Telkom Indonesia Internasional
+  - 9-15: Router tidak bernama milik Google
+  - 16-26: Router menolak menjawab request
+  - 27 adalah lokasi server Google yang dapat diakses dalam 23ms!
 
-  ![traceroute Berkeley](tracerouteberkeley.png)
+- Dari SMAN 1 Batujajar ke itb.ac.id
 
-  - 6: Northern Crossroads
-  - 7-14: A fast connection
-    - 8-9: Chicago
-    - 10-11: Denver
-    - 12-13: Las Vegas
-    - 14: Los Angeles
-  - 19 is where it arrives at Berkeley in 80 ms!
+  ![traceroute Berkeley](tracertitb.png)
 
-- From Sanders Theatre to MIT.edu
+  - 6-8: Koneksi cepat nasional OpenIXP
+    - 6: Router OpenIXP milik Telkom
+    - 7: Router pertukaran data antar ISP nasional
+    - 8: Router OpenIXP milik Indosat
+  - 9: Masuk ke jaringan Indosat
+  - 10: Router menolak menjawab request
+  - 11-12: Masuk ke jaringan ITB
+  - 13 adalah lokasi tujuan yang dapat diakses dalam 16ms!
 
-  ![traceroute MIT](traceroutemit.png)
+- Dari SMAN 1 Batujajar ke cnn.co.jp
 
-  - 6-7: Goes to New York connectivity
-  - 8: MIT's website is outsourced to Akamai's NYC servers
+  ![traceroute Japan](tracertcnnjp.png)
 
-- From Sanders Theatre to CNN.jp
-
-  ![traceroute Japan](traceroutejp.png)
-
-  - 9-10 jumps from Seattle to Osaka past an ocean!
-    - Using undersea cabling
+  - 8-9 lompat dari Singapura ke Los Angeles, California menyeberangi samudera!
+  - 11-12 lompat lagi dari Los Angeles, California ke Tokyo, Jepang menyeberangi samudera pasifik!
+    - Menggunakan kabel bawah laut
 
 ## Kabel Bawah Laut
 
@@ -224,16 +222,12 @@
 - Guru memperlihatkan router rumah
 - Router rumah mungkin memiliki wifi, firewall, dan switch dalam satu perangkat yang sama
 
+  <iframe title="Router" src="https://sketchfab.com/models/ac86d8ae65a54f4aa99d7d624f71e5f4/embed?autospin=0.2&amp;autostart=1&amp;preload=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Demo Kabel Jaringan
 
 - Guru memotong kabel ethernet hingga terbuka bagian dalam
 - Di dalam kabel jaringan terdapat 8 kawat berbeda-beda warna
   - Beberapa digunakan untuk mengirim data, lainnya untuk menerima data
   - Lainnya untuk isolasi dan penolak interferensi
-
-## AP CSP Terminology
-
-- __Computing device__: a physical artifact that can run a program
-- __Computing system__: a group of computing devices and programs working together for a common purpose
-- __Computing network__: a computing system that contains a group of interconnected computing devices capable of sending and receiving data.
-- __Path__: a sequence of directly connected computing devices that begins and ends at the receiver.
+  - Urutan warna kabel harus mengikuti standar tertentu
