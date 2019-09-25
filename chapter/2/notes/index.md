@@ -170,7 +170,7 @@
 
   ![traceroute Google](tracertgoogle.png)
 
-  - 1-2: Beberapa router tidak bernama di SMAN 1 BatujajarA few unnamed routers at Harvard
+  - 1-2: Beberapa router tidak bernama di SMAN 1 Batujajar
   - 3-5: Router tidak bernama milik ISP Telkom Indonesia
   - 6-8: Router tidak bernama di Singapura milik Telkom Indonesia Internasional
   - 9-15: Router tidak bernama milik Google
