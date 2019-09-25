@@ -9,4 +9,8 @@
 * Video
   * Coming soon
 * Lembar Referensi
-  * Coming soon
+  * Dasar-Dasar Internet (coming soon)
+  * DNS dan DHCP (coming soon)
+  * Alamat IP (coming soon)
+  * Router (coming soon)
+  * TCP dan IP (coming soon)
