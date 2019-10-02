@@ -8,7 +8,7 @@
 
 ## GitHub
 
-Untuk mengirim masalah, Anda memerlukan akun di [GitHub](https://github.com/), layanan populer untuk menyimpan kode dan berkolaborasi dengan orang lain. Jika Anda belum memilikinya, kunjungi https://github.com/join dan buat akun (gratis). Berhati-hatilah untuk mengingat nama pengguna dan kata sandi Anda!
+Untuk mengirim masalah, Anda memerlukan akun di [GitHub](https://github.com/), layanan populer untuk menyimpan kode dan berkolaborasi dengan orang lain. Jika Anda belum memilikinya, kunjungi [https://github.com/join](https://github.com/join) dan buat akun (gratis). Berhati-hatilah untuk mengingat nama pengguna dan kata sandi Anda!
 
 Setelah mendaftarkan akun GitHub, **pastikan Anda juga bergabung ke [kelas Informatika](https://submit.cs50.io/invites/03fb42c2d7cc492595f9a8d629f7a6c8)**.
 
@@ -20,25 +20,25 @@ Untuk bantuan mengenai Scratch:
 
 ## Gatal untuk Memrogram?
 
-Pergilah ke https://scratch.mit.edu/ dan daftarkan akun di situs web MIT dengan mengeklik **Join Scratch** atau **Bergabung dengan Scratch** di atas halaman. Nama pengguna apa pun (yang tersedia) tidak masalah, tetapi berhati-hatilah untuk mengingat nama pengguna dan kata sandi pilihan Anda.
+Pergilah ke [https://scratch.mit.edu/](https://scratch.mit.edu/) dan daftarkan akun di situs web MIT dengan mengeklik **Join Scratch** atau **Bergabung dengan Scratch** di atas halaman. Nama pengguna apa pun (yang tersedia) tidak masalah, tetapi berhati-hatilah untuk mengingat nama pengguna dan kata sandi pilihan Anda.
 
-Lalu pergilah ke https://scratch.mit.edu/ideas/ dan lihatlah contoh-contoh yang tersedia untuk Anda sebelum Anda terjun ke Scratch itu sendiri. Khususnya, Anda mungkin ingin memeriksa tautan [Panduan Memulai](https://scratch.mit.edu/projects/editor/?tutorial=getStarted).
+Lalu pergilah ke [https://scratch.mit.edu/ideas/](https://scratch.mit.edu/ideas/) dan lihatlah contoh-contoh yang tersedia untuk Anda sebelum Anda terjun ke Scratch itu sendiri. Khususnya, Anda mungkin ingin memeriksa tautan [Panduan Memulai](https://scratch.mit.edu/projects/editor/?tutorial=getStarted).
 
 Selanjutnya cobalah aplikasi _Pikachu's Pastry Catch_ oleh Gabe Walker! Klik bendera hijau dan kemudian, sesuai instruksi Gabe, tekan keyboard Anda, dimana game akan dimulai! Jangan ragu untuk buang-buang waktu sedikit.
 
 <iframe src="https://scratch.mit.edu/projects/embed/26329354/?autostart=false"></iframe>
 
-Jika penasaran, kode sumber Gabe dapat dilihat di http://scratch.mit.edu/projects/26329354/. (Anda juga dapat membuat game tampil memenuhi layar (full-screen) pada URL yang sama).
+Jika penasaran, kode sumber Gabe dapat dilihat di [http://scratch.mit.edu/projects/26329354/](http://scratch.mit.edu/projects/26329354/). (Anda juga dapat membuat game tampil memenuhi layar (full-screen) pada URL yang sama).
 
 Selanjutnya, pastikan Anda tahu apa yang dapat didaur ulang dan dibuat kompos belakangan ini dengan mencoba remix dari _Oscartime_ oleh Jordan Hayashi ini!
 
 <iframe src="https://scratch.mit.edu/projects/embed/71161586/?autostart=false"></iframe>
 
-Kode sumber Jordan dapat ditemukan di https://scratch.mit.edu/projects/71161586/. (Anda juga dapat membuat game tampil memenuhi layar (full-screen) pada URL yang sama).
+Kode sumber Jordan dapat ditemukan di [https://scratch.mit.edu/projects/71161586/](https://scratch.mit.edu/projects/71161586/). (Anda juga dapat membuat game tampil memenuhi layar (full-screen) pada URL yang sama).
 
 Jika Anda tidak memiliki pengalaman (atau kenyamanan) apa pun dengan pemrograman, ketahuilah bahwa proyek Gabe dan Jordan lebih kompleks daripada yang kami harapkan untuk masalah pertama ini. (Klik **Lihat dalam** atau *See inside** di sudut kanan atas Scratch untuk melihat "detail implementasi" yang mendasari setiap proyek). Tetapi keduanya menunjukkan apa yang Anda dapat lakukan dengan Scratch.
 
-Sebenarnya, untuk pengantar Scratch yang lebih halus (dan pemrograman secara umum), Anda mungkin ingin meninjau beberapa contoh yang diperlihatkan di kelas, "kode sumber" yang dapat ditemukan di https://scratch.mit.edu/studios/3003963/. Setelah Anda dapat berkata pada diri sendiri, "Oke, saya pikir saya mengerti," Anda siap untuk melanjutkan.
+Sebenarnya, untuk pengantar Scratch yang lebih halus (dan pemrograman secara umum), Anda mungkin ingin meninjau beberapa contoh yang diperlihatkan di kelas, "kode sumber" yang dapat ditemukan di [https://scratch.mit.edu/studios/3003963/](https://scratch.mit.edu/studios/3003963/). Setelah Anda dapat berkata pada diri sendiri, "Oke, saya pikir saya mengerti," Anda siap untuk melanjutkan.
 
 Sekarang saatnya memilih petualangan Anda sendiri! Misi Anda adalah, cukup sederhana, untuk bersenang-senang dengan Scratch dan mengimplementasikan proyek pilihan Anda (baik itu animasi, permainan, seni interaktif, atau apa pun), dengan mengacu pada persyaratan berikut.
 
@@ -54,11 +54,11 @@ Jika, selama ini, Anda merasa terlalu sulit untuk mengimplementasikan beberapa f
 
 Baiklah, pergilah. Buat kami bangga!
 
-Kebetulan, jika Anda tidak memiliki akses Internet yang lancar, Anda dapat mengunduh "editor offline" Scratch di https://scratch.mit.edu/download. Tetapi ketika selesai dengan proyek offline Anda, pastikan untuk mengunggahnya ke akun Anda di http://scratch.mit.edu/ melalui **File > Bagikan ke situs web** di editor offline Anda.
+Kebetulan, jika Anda tidak memiliki akses Internet yang lancar, Anda dapat mengunduh "editor offline" Scratch di [https://scratch.mit.edu/download](https://scratch.mit.edu/download). Tetapi ketika selesai dengan proyek offline Anda, pastikan untuk mengunggahnya ke akun Anda di [http://scratch.mit.edu/](http://scratch.mit.edu/) melalui **File > Bagikan ke situs web** di editor offline Anda.
 
 Setelah selesai dengan proyek Anda, klik **Lihat Halaman Karya** atau **See Project Page** di sudut kanan atas Scratch. Pastikan proyek Anda memiliki judul (di sudut kiri atas Scratch, kalau masih kosong maka akan muncul judul *Untitled*, gantilah judulnya), beberapa instruksi (di sudut kanan atas Scratch), dan beberapa catatan dan / atau kredit (di sudut kanan bawah Scratch). Kemudian klik **Bagikan** atau **Share** di sudut kanan atas Scratch sehingga orang lain dapat melihat proyek Anda. Terakhir, perhatikan URL di bilah alamat browser Anda. Itu adalah URL proyek Anda di situs web MIT, dan Anda harus mencatatnya nanti.
 
-Oh, dan jika Anda ingin memamerkan proyek Anda di studio Informatika SMA, pergilah ke https://scratch.mit.edu/studios/25223914/, lalu klik **Tambah karya** atau **Add projects**, dan masukkan sendiri URL proyek Anda.
+Oh, dan jika Anda ingin memamerkan proyek Anda di studio Informatika SMA, pergilah ke [https://scratch.mit.edu/studios/25223914/](https://scratch.mit.edu/studios/25223914/), lalu klik **Tambah karya** atau **Add projects**, dan masukkan sendiri URL proyek Anda.
 
 ## Kapan Harus Dilakukan
 
@@ -72,7 +72,7 @@ Di dalam proyek Scratch Anda, buka menu "File", dan klik "Simpan ke komputer And
 
 === Langkah 2 of 4
 
-Buka https://github.com/me50/USERNAME, gantikan `USERNAME` di URL dengan nama pengguna GitHub Anda sendiri. Di sisi kiri layar, klik "Branch: master". Di bidang yang bertuliskan "Find or crate branch...", ketikkan `cs50/problems/2019/ap/scratch` dan klik "Create branch".
+Buka [https://github.com/me50/USERNAME](https://github.com/me50/USERNAME), gantikan `USERNAME` di URL dengan nama pengguna GitHub Anda sendiri. Di sisi kiri layar, klik "Branch: master". Di bidang yang bertuliskan "Find or crate branch...", ketikkan `cs50/problems/2019/ap/scratch` dan klik "Create branch".
 
 === Langkah 3 of 4
 
