@@ -68,7 +68,7 @@ Sampai waktu yang diperlihatkan di Google Classroom masing-masing.
 
 === Langkah 1 of 4
 
-Di dalam proyek Scratch Anda, buka menu "File", dan klik "Simpan ke komputer Anda". Simpan file sebagai `KELAS_MASALAH 4.1_NAMA LENGKAP.sb3`.
+Di dalam proyek Scratch Anda, buka menu "File", dan klik "Simpan ke komputer Anda". Simpan file sebagai `project.sb3`.
 
 === Langkah 2 of 4
 
