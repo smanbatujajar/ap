@@ -8,7 +8,7 @@
 
 ## GitHub
 
-Untuk mengirim masalah, Anda memerlukan akun di [GitHub](https://github.com/), layanan populer untuk menyimpan kode dan berkolaborasi dengan orang lain. Jika Anda belum memilikinya, kunjungi [https://github.com/join](https://github.com/join) dan buat akun (gratis). Berhati-hatilah untuk mengingat nama pengguna dan kata sandi Anda!
+Untuk mengirim masalah, Anda memerlukan akun di [GitHub](https://github.com/), layanan populer untuk menyimpan kode dan berkolaborasi dengan orang lain. Jika Anda belum memilikinya, kunjungi [https://github.com/join](https://github.com/join) dan buat akun (gratis). Berhati-hatilah untuk mengingat nama pengguna dan kata sandi Anda! Anda mungkin ingin menggunakan email sekolah Anda saat mendaftar.
 
 Setelah mendaftarkan akun GitHub, **pastikan Anda juga bergabung ke [kelas Informatika](https://submit.cs50.io/invites/03fb42c2d7cc492595f9a8d629f7a6c8)**.
 
