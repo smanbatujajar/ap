@@ -82,15 +82,13 @@ Klik tombol yang mengatakan "Upload files". Seret file Scratch `.sb3` Anda ke da
 
 Klik tombol hijau "Commit changes". Kamu sudah selesai!
 
-Kiriman Anda akan dinilai kebenarannya dalam 2 menit, pada saat itu skor Anda akan muncul di https://submit.cs50.io [https://submit.cs50.io]!
+Kiriman Anda akan dinilai kebenarannya dalam 2 menit, pada saat itu skor Anda akan muncul di [https://submit.cs50.io](https://submit.cs50.io)!
 
 ## FAQs
 
 ### Tidak dapat menemukan tombol "Branch: master"
 
 Jika Anda tidak melihat tombol "Branch: master" saat membuka halaman submit50 Anda di GitHub, klik tombol "README" di sebelah "We recommend every repository include a..." dan kemudian klik tombol hijau "Commit new file". Setelah itu, tombol "Branch: master" akan muncul!
-
-Kiriman Anda akan dinilai kebenarannya dalam 2 menit, pada saat itu skor Anda akan muncul di https://submit.cs50.io [https://submit.cs50.io]!
 
 Jika Anda menemui masalah dengan langkah di atas, silakan hubungi guru mata pelajaran.
 
