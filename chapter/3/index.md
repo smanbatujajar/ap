@@ -2,8 +2,7 @@
 
 * Catatan (coming soon)
 * Problem
-  * Algoritma Sehari-hari (coming soon)
-  * Scratch (coming soon)
+  * [Scratch]({{ "/problems/scratch" | relative_url }})
 * Slide (coming soon)
 * Source Code dari pertemuan kelas
   * (coming soon)
