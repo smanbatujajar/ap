@@ -9,6 +9,7 @@
 * [Chapter 1]({{ "/chapter/1" | relative_url }}) Sistem Komputer
 * [Chapter 2]({{ "/chapter/2" | relative_url }}) Internet
 * [Chapter 3]({{ "/chapter/3" | relative_url }}) Scratch
+* [Chapter 3]({{ "/chapter/4" | relative_url }}) C
 
 ***
 
