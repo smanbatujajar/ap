@@ -1,4 +1,4 @@
-# Bab 1
+# Chapter 1
 
 {% include alert.md %}
 
