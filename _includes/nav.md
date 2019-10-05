@@ -21,7 +21,7 @@
 
 ***
 
-* [**Kurikulum**]({{ "/curriculum" | relative_url }})
+<!-- * [**Kurikulum**]({{ "/curriculum" | relative_url }}) -->
 * [Tools]({{ "/tools" | relative_url }})
 * [Diskusi](https://www.facebook.com/groups/informatika.sma)
 * [Silabus]({{ "/syllabus" | relative_url }})
