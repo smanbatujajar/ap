@@ -5,6 +5,7 @@
 * Catatan (coming soon)
 * Problem
   * [Scratch]({{ "/problems/scratch" | relative_url }})
+  * Algoritma Sehari-hari (coming soon)
 * Slide (coming soon)
 * Source Code dari pertemuan kelas
   * [Studio](https://scratch.mit.edu/studios/3003963/)
