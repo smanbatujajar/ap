@@ -1,4 +1,8 @@
 # Masalah: Scratch
+{:.no_toc}
+
+* TOC
+{:toc}
 
 ## Singkat Kata
 

@@ -1,4 +1,8 @@
 # Masalah Tertulis: Sekitar Rumah
+{:.no_toc}
+
+* TOC
+{:toc}
 
 ## Singkat Kata
 

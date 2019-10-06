@@ -10,8 +10,6 @@ Tuliskan algoritma untuk menjelaskan secara lengkap dalam teks dan _pseudocode_,
 
 {% include honesty.md %}
 
-<!-- ## Langkah 1: Tonton Ini. -->
-
 ## Langkah 1: Baca ini.
 
 Algoritma adalah sekumpulan instruksi untuk menyelesaikan tugas selangkah demi selangkah. Kadang-kadang algoritma ini bisa sangat sederhana. Salah satu cara untuk mengekspresikan algoritma untuk memutuskan cara berpakaian berdasarkan cuaca adalah dengan mengatakan sesuatu seperti ini.

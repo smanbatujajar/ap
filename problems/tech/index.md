@@ -1,4 +1,8 @@
 # Masalah Tertulis: Menyoroti Teknologi
+{:.no_toc}
+
+* TOC
+{:toc}
 
 ## Singkat Kata
 
