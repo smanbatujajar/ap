@@ -106,7 +106,7 @@ Lakukan yang terbaik untuk menghindari loop tak terbatas (loop yang tidak mungki
 
 ## Langkah 3: Lakukan ini.
 
-Sekarang untuk sedikit kesenangan. Sebelum Anda benar-benar mengumpulkan algoritma Anda, Anda mungkin harus meminta seseorang untuk mengujinya. Inilah yang terjadi dalam pertemuan Informatika ketika membuat sandwich selai strawberry menggunakan algoritma yang disediakan oleh siswa.
+Sekarang waktunya sedikit bersenang-senang. Sebelum Anda benar-benar mengumpulkan algoritma Anda, Anda mungkin harus meminta seseorang untuk mengujinya. Inilah yang terjadi dalam pertemuan Informatika ketika membuat sandwich selai strawberry menggunakan algoritma yang disediakan oleh siswa.
 
 <iframe src="https://www.youtube.com/embed/hiZz5EE5YCE"></iframe>
 
