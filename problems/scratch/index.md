@@ -96,4 +96,6 @@ Jika Anda tidak melihat tombol "Branch: master" saat membuka halaman submit50 An
 
 Jika Anda menemui masalah dengan langkah di atas, silakan hubungi guru mata pelajaran.
 
+Anda dapat mengulangi pengiriman sebanyak apapun yang Anda inginkan sebelum batas waktu pengumpulan.
+
 Ini adalah Scratch, masalah pemrograman pertama Anda di Informatika SMA!

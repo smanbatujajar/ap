@@ -1,4 +1,4 @@
-## Lecture 0
+# Lecture 0
 {:.no_toc}
 
 * TOC

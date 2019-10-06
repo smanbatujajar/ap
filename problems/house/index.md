@@ -81,9 +81,9 @@ contoh: X MIPA 7_TUGAS 2.1_DIMAS AHMAD EKA PUTRA
 3. Kumpulkan file DOCX.
 4. Klik "Serahkan" atau "Mark as done".
 
-Anda dapat mengulangi pengiriman sebanyak apapun yang Anda inginkan sebelum batas waktu pengumpulan.
-
 Jika Anda menemui masalah dengan langkah di atas, silakan hubungi guru mata pelajaran.
+
+Anda dapat mengulangi pengiriman sebanyak apapun yang Anda inginkan sebelum batas waktu pengumpulan.
 
 Ini adalah Sekitar Rumah, masalah pertama Anda di Informatika!
 
