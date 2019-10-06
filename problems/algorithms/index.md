@@ -130,6 +130,11 @@ Klik tombol hijau "Commit changes". Kamu sudah selesai!
 
 Kiriman Anda akan dinilai kebenarannya dalam 2 menit, pada saat itu skor Anda akan muncul di [https://submit.cs50.io](https://submit.cs50.io)!
 
+Jika Anda menemui masalah dengan langkah di atas, silakan hubungi guru mata pelajaran.
+
+Ini adalah Algoritma Sehari-hari.
+
+
 ***
 
 <sup><b id="fn-1">1.</b> Jangan khawatir, kita akan segera memberi Mario haknya!</sup>  
