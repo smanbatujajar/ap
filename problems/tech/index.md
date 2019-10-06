@@ -25,13 +25,13 @@ Semoga berhasil mengeluarkannya dari kepalamu.
 
 Dalam masalah penulisan ini, kita akan mencoba masuk ke beberapa sudut Internet untuk membiasakan diri ketika kita mulai mengeksplorasi ilmu komputer secara lebih mendalam.
 
-Hal hebat tentang menjalani apa yang umumnya (kebanyakan di kalangan non-teknologi) disebut Zaman Digital adalah selalu ada beberapa perangkat atau teknologi baru yang muncul untuk merevolusi cara kita menjalani hidup. Beberapa teknologi iya.<sup>[\[1\]](#fn-1)</sup> Beberapa ... tidak begitu banyak.<sup>[\[2\]](#fn-2)</sup> Untungnya bagi kita, meskipun Internet adalah tempat yang cukup besar, ada banyak situs yang mendedikasikan diri mereka untuk melaporkan berita terbaru yang berorientasi teknologi, ulasan produk, dan komentar tentang bagaimana teknologi mempengaruhi kehidupan kita.
+Hal hebat tentang menjalani apa yang umumnya (kebanyakan di kalangan non-teknologi) disebut Zaman Digital adalah selalu ada beberapa perangkat atau teknologi baru yang muncul untuk merevolusi cara kita menjalani hidup. Beberapa teknologi iya.<sup>[&#91;1&#93;](#fn-1)</sup> Beberapa ... tidak begitu banyak.<sup>[&#91;2&#93;](#fn-2)</sup> Untungnya bagi kita, meskipun Internet adalah tempat yang cukup besar, ada banyak situs yang mendedikasikan diri mereka untuk melaporkan berita terbaru yang berorientasi teknologi, ulasan produk, dan komentar tentang bagaimana teknologi mempengaruhi kehidupan kita.
 
 Situs-situs seperti [Tabloid Pulsa](https://www.tabloidpulsa.co.id/), [Detik Inet](https://inet.detik.com/), dan [Kompas Tekno](https://tekno.kompas.com/) hanyalah beberapa dari situs web yang di-bookmark di browser para guru Informatika sehingga kami dapat selalu mengikuti perkembangan terbaru. Seringkali artikel-artikel ini menginformasikan pemahaman kita tentang produk-produk baru, membuat kita memikirkan kembali pendapat yang dipegang sebelumnya, atau membuat kita berpikir tentang beberapa dampak teknologi yang mungkin tidak tampak pada awalnya. Poin terkahir ini yang difokuskan dalam penugasan ini.
 
 ## Oke, Jadi Apa yang Harus Saya Lakukan?
 
-Pilih beberapa teknologi yang Anda kenal dan dapat Anda gunakan setiap hari. Tidak perlu perangkat keras; perangkat lunak, situs web, dan sejenisnya juga boleh saja. Jelajahi secara mendalam. Temukan beberapa artikel tentang perkembangan terkini (mis., Dalam tiga bulan terakhir) tentang teknologi ini yang telah diposting di situs-situs seperti yang dijelaskan sebelumnya. Khususnya, Anda harus membaca minimal tiga (3) artikel tentang teknologi yang Anda pilih, dan sertakan daftar sumber Anda di akhir makalah Anda.<sup>[\[3\]](#fn-3)</sup>
+Pilih beberapa teknologi yang Anda kenal dan dapat Anda gunakan setiap hari. Tidak perlu perangkat keras; perangkat lunak, situs web, dan sejenisnya juga boleh saja. Jelajahi secara mendalam. Temukan beberapa artikel tentang perkembangan terkini (mis., Dalam tiga bulan terakhir) tentang teknologi ini yang telah diposting di situs-situs seperti yang dijelaskan sebelumnya. Khususnya, Anda harus membaca minimal tiga (3) artikel tentang teknologi yang Anda pilih, dan sertakan daftar sumber Anda di akhir makalah Anda.<sup>[\&#91;3&#93;](#fn-3)</sup>
 
 Buka editor teks (pastikan ekstensi file adalah .docx). Kemudian, tidak lebih dari **600 kata**, uraikan teknologi tersebut. Asumsikan untuk keperluan penugasan ini bahwa pembaca tulisan Anda adalah seseorang yang tidak memiliki pengetahuan sebelumnya tentang teknologi yang Anda gambarkan, dan dengan demikian tujuan Anda adalah untuk memberi mereka ringkasan yang utuh dan tidak bias. Dalam menulis jawaban Anda, Anda harus mempertimbangkan daftar pertanyaan ini (sedikitnya) sebagai titik awal yang baik:
 
@@ -69,6 +69,6 @@ Ini adalah Menyoroti Teknologi. Dan sayangnya, lagu Nyan Cat masih melekat di ke
 
 ***
 
-<sup><b id="fn-1">1.</b> [https://www.facebook.com]</sup>
-<sup><b id="fn-2">1.</b> [https://id.wikipedia.org/wiki/Betamax]</sup>
-<sup><b id="fn-3">1.</b> Pastikan untuk memasukkan untuk setiap nama artikel yang dibaca, nama situs web atau publikasi tempat Anda menemukan artikel, tanggal artikel ditulis, nama penulis, dan URL, jika ditemukan online.<br>Misalnya:<br><i>Judul Artikel</i> oleh Nama Penulis (Nama Situs) 31/12/2019 https://inet.detik.com/alamat/lengkap/artikel</sup>
+<sup><b id="fn-1">1.</b> [https://www.facebook.com]</sup>  
+<sup><b id="fn-2">2.</b> [https://id.wikipedia.org/wiki/Betamax]</sup>  
+<sup><b id="fn-3">3.</b> Pastikan untuk memasukkan untuk setiap nama artikel yang dibaca, nama situs web atau publikasi tempat Anda menemukan artikel, tanggal artikel ditulis, nama penulis, dan URL, jika ditemukan online.<br>Misalnya:<br><i>Judul Artikel</i> oleh Nama Penulis (Nama Situs) 31/12/2019 https://inet.detik.com/alamat/lengkap/artikel</sup>

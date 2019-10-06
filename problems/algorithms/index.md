@@ -22,7 +22,7 @@ Lihat keluar jendela. Jika hujan di luar, kenakan sepatu bot hujan dan jas hujan
 
 Konsep algoritma adalah dasar fundamental dalam ilmu komputer. Ingat sebelumnya bahwa kita mendefinisikan komputer sebagai _perangkat yang menerima input, dan memprosesnya dengan cara tertentu untuk menghasilkan hasil secara otomatis_. Kata kunci dalam kalimat tersebut ketika kita berbicara tentang algoritma adalah kata "proses".
 
-Katakanlah Anda bermain video game favorit. Jika Anda penggemar nostalgia, mungkin game populer ini.[1]
+Katakanlah Anda bermain video game favorit. Jika Anda penggemar nostalgia, mungkin game populer ini.<sup>[&#91;1&#93;](#fn-1)</sup>
 
 <iframe src="https://www.youtube.com/embed/zNBwkI0ytZo"></iframe>
 
@@ -127,3 +127,7 @@ Klik tombol yang mengatakan "Upload files". Seret file Scratch `algorithms.docx`
 Klik tombol hijau "Commit changes". Kamu sudah selesai!
 
 Kiriman Anda akan dinilai kebenarannya dalam 2 menit, pada saat itu skor Anda akan muncul di [https://submit.cs50.io](https://submit.cs50.io)!
+
+***
+
+<sup><b id="fn-1">1.</b> Jangan khawatir, kita akan segera memberi Mario haknya!</sup>  
