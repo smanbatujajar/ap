@@ -116,15 +116,15 @@ Jika demikian, bantu mereka keluar, lalu tulis ulang instruksi algoritma Anda un
 
 ## Cara Mengumpulkan
 
-### Langkah 1 of 3
+### Langkah 1 dari 3
 
 Buka [https://github.com/me50/USERNAME](https://github.com/me50/USERNAME), gantikan `USERNAME` di URL dengan nama pengguna GitHub Anda sendiri. Di sisi kiri layar, klik "Branch: master". Di bidang yang bertuliskan "Find or crate branch...", ketikkan `informatikasma/problems/2019/algorithms` dan klik "Create branch".
 
-### Langkah 2 of 3
+### Langkah 2 dari 3
 
 Klik tombol yang mengatakan "Upload files". Seret file Scratch `algorithms.docx` Anda ke dalam kotak yang bertuliskan "Drag files here".
 
-### Langkah 3 of 3
+### Langkah 3 dari 3
 
 Klik tombol hijau "Commit changes". Kamu sudah selesai!
 

@@ -70,19 +70,19 @@ Sampai waktu yang diperlihatkan di Google Classroom masing-masing.
 
 ## Cara Mengumpulkan
 
-### Langkah 1 of 4
+### Langkah 1 dari 4
 
 Di dalam proyek Scratch Anda, buka menu "File", dan klik "Simpan ke komputer Anda". Simpan file sebagai `project.sb3`.
 
-### Langkah 2 of 4
+### Langkah 2 dari 4
 
 Buka [https://github.com/me50/USERNAME](https://github.com/me50/USERNAME), gantikan `USERNAME` di URL dengan nama pengguna GitHub Anda sendiri. Di sisi kiri layar, klik "Branch: master". Di bidang yang bertuliskan "Find or crate branch...", ketikkan `informatikasma/problems/2019/scratch` dan klik "Create branch".
 
-### Langkah 3 of 4
+### Langkah 3 dari 4
 
 Klik tombol yang mengatakan "Upload files". Seret file Scratch `.sb3` Anda ke dalam kotak yang bertuliskan "Drag files here".
 
-### Langkah 4 of 4
+### Langkah 4 dari 4
 
 Klik tombol hijau "Commit changes". Kamu sudah selesai!
 
