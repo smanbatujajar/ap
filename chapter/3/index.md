@@ -4,7 +4,7 @@
 
 * Catatan (coming soon)
 * Problem
-  * Algoritma Sehari-hari (coming soon)
+  * [Algoritma Sehari-hari]({{ "/problems/algorithms" | relative_url }})
   * [Scratch]({{ "/problems/scratch" | relative_url }})
 * Slide (coming soon)
 * Source Code dari pertemuan kelas
