@@ -29,7 +29,9 @@ Anggaplah Anda membalap Sonic di sekitar Green Hill Zone dan Anda melihat bebera
 Setiap langkah dari proses itu melibatkan banyak algoritma. Dijelaskan secara informal, algoritma tersebut (sangat disederhanakan) dapat dibaca sebagai sesuatu seperti ini:
 
 ```
-Jika tombol lompat ditekan dan jika Sonic berdiri di tanah, mulailah menggerakkannya ke atas sampai dia mencapai puncak busurnya. Setelah dia mencapai puncak busurnya, mulailah menggerakkannya ke bawah dengan mensimulasikan tarikan gravitasi hingga dia berdiri di tanah lagi.
+Jika tombol lompat ditekan dan jika Sonic berdiri di tanah, mulailah menggerakkannya ke atas sampai dia
+mencapai puncak busurnya. Setelah dia mencapai puncak busurnya, mulailah menggerakkannya ke bawah dengan
+mensimulasikan tarikan gravitasi hingga dia berdiri di tanah lagi.
 ```
 
 Dan untuk cincinnya:
@@ -69,7 +71,9 @@ Inilah salah satu cara untuk menerjemahkan algoritma itu ke dalam _pseudocode_:
 Kita memberikan nomor pada setiap baris untuk alasan yang akan Anda lihat sebentar lagi. Tetapi perhatikan bagaimana terlepas dari apakah hujan atau tidak, algoritma memerintahkan Anda untuk pergi keluar. Baris ke-1 sampai ke-3 hanyalah hal-hal ekstra yang Anda lakukan sebelum pergi keluar jika kebetulan sedang hujan. Kita menyebut sesuatu seperti "jika hujan di luar" sebuah _condition_. Beberapa algoritma juga memiliki langkah-langkah yang diulang-ulang, seperti ini:
 
 ```
-Pilih nomor favorit Anda dari 1 hingga 50 secara rahasia. Ketika teman Anda memberi Anda nomor, jika terlalu tinggi minta mereka menebak lebih rendah dan jika terlalu rendah minta mereka menebak lebih tinggi. Jika benar, mintalah teman Anda berhenti menebak.
+Pilih nomor favorit Anda dari 1 hingga 50 secara rahasia. Ketika teman Anda memberi Anda nomor, jika
+terlalu tinggi minta mereka menebak lebih rendah dan jika terlalu rendah minta mereka menebak lebih
+tinggi. Jika benar, mintalah teman Anda berhenti menebak.
 ```
 
 Kita menyebut pengulangan seperti itu sebagai _loop_, karena Anda akan terus berputar dan mengitari langkah yang sama sampai beberapa kondisi (teman Anda menebak angka yang tepat) membuat Anda berhenti. Inilah salah satu dari banyak cara untuk mengekspresikan permainan menebak angka dalam _pseudocode_:
