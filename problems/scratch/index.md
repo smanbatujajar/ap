@@ -40,7 +40,7 @@ Selanjutnya, pastikan Anda tahu apa yang dapat didaur ulang dan dibuat kompos be
 
 Kode sumber Jordan dapat ditemukan di [https://scratch.mit.edu/projects/71161586/](https://scratch.mit.edu/projects/71161586/). (Anda juga dapat membuat game tampil memenuhi layar (full-screen) pada URL yang sama).
 
-Jika Anda tidak memiliki pengalaman (atau kenyamanan) apa pun dengan pemrograman, ketahuilah bahwa proyek Gabe dan Jordan lebih kompleks daripada yang kami harapkan untuk masalah pertama ini. (Klik **Lihat dalam** atau *See inside** di sudut kanan atas Scratch untuk melihat "detail implementasi" yang mendasari setiap proyek). Tetapi keduanya menunjukkan apa yang Anda dapat lakukan dengan Scratch.
+Jika Anda tidak memiliki pengalaman (atau kenyamanan) apa pun dengan pemrograman, ketahuilah bahwa proyek Gabe dan Jordan lebih kompleks daripada yang kami harapkan untuk masalah pertama ini. (Klik **Lihat dalam** atau **See inside** di sudut kanan atas Scratch untuk melihat "detail implementasi" yang mendasari setiap proyek). Tetapi keduanya menunjukkan apa yang Anda dapat lakukan dengan Scratch.
 
 Sebenarnya, untuk pengantar Scratch yang lebih halus (dan pemrograman secara umum), Anda mungkin ingin meninjau beberapa contoh yang diperlihatkan di kelas, "kode sumber" yang dapat ditemukan di [https://scratch.mit.edu/studios/3003963/](https://scratch.mit.edu/studios/3003963/). Setelah Anda dapat berkata pada diri sendiri, "Oke, saya pikir saya mengerti," Anda siap untuk melanjutkan.
 
