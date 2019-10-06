@@ -4,8 +4,8 @@
 
 * [Catatan](notes)
 * Problem
-  * [Algoritma Sehari-hari]({{ "/problems/algorithms" | relative_url }})
   * [Scratch]({{ "/problems/scratch" | relative_url }})
+  * [Algoritma Sehari-hari]({{ "/problems/algorithms" | relative_url }})
 * [Slide]({{ "/assets/pdfs/chapter3.pdf" | relative_url }})
 * Source Code dari pertemuan kelas
   * [Studio](https://scratch.mit.edu/studios/3003963/)
