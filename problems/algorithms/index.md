@@ -56,7 +56,7 @@ Lihat keluar jendela. Jika hujan di luar, kenakan sepatu bot hujan dan jas hujan
 
 Anda mungkin melihat seorang ilmuwan komputer menggunakan apa yang disebut _pseudocode_&#8212;ekspresi singkat dalam bahasa umum yang disusun dengan cara yang menyerupai apa yang tampak seperti _source code_&#8212;untuk menulis algoritma mereka. Kita akan berbicara lebih banyak tentang _pseudocode_ segera, tetapi membiasakan diri menulisnya sebelum Anda terjun ke pengkodean yang sebenarnya di Scratch, C, PHP, atau JavaScript adalah ide bagus, seperti menulis draf pertama esai.
 
-Inilah salah satu cara yang mungkin untuk menerjemahkan algoritma itu ke dalam _pseudocode_:
+Inilah salah satu cara untuk menerjemahkan algoritma itu ke dalam _pseudocode_:
 
 ```
 0   lihat keluar jendela
