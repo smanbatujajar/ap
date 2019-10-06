@@ -1,4 +1,4 @@
-## Lecture 0
+## Computational Thinking & Scratch
 {:.no_toc}
 
 * TOC
