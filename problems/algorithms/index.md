@@ -95,7 +95,7 @@ Perhatikan di sini bahwa sampai teman Anda menebak angka yang benar, mereka akan
 
 ## Langkah 2: Tulis ini.
 
-Oke, sekarang Anda telah belajar banyak tentang algoritma dan _pseudocode_. Mungkin kita harus mencoba menulis beberapa&#8212;tiga, tepatnya. Buka editor teks dan buat file dengan nama `algorithms.docx`. Pertama, tulis algoritma (baik dalam bentuk kalimat maupun dalam _kodesemu_) untuk cara:
+Oke, sekarang Anda telah belajar banyak tentang algoritma dan _pseudocode_. Mungkin kita harus mencoba menulis beberapa&#8212;tiga, tepatnya. Buka editor teks dan buat file dengan nama `algorithms.docx`. Pertama, tulis algoritma (baik dalam bentuk kalimat maupun dalam _pseudocode_) untuk cara:
 
 * menyikat gigi
 * makan jeruk
