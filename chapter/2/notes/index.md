@@ -39,15 +39,15 @@
 ## DNS
 
 - Kita mengakses situs web menggunakan nama domain (Facebook.com, Google.com, dll.), tetapi ternyata situs-situs ini juga memiliki alamat IP
-- Server DNS (Domain Name System) mengubah nama domain menjadi alamat IPaddresses
+- Server DNS (Domain Name System) mengubah nama domain menjadi alamat IP
 
 ## Packets
 
 - Komputer berkomunikasi dengan mengirim paket, yang seperti amplop virtual yang dikirim antar komputer
   - Masih dalam bentuk 0 dan 1
-- Bandwidth (diukur dalam bit per detik) dari suatu jaringan menentukan jumlah maksimum data yang dapat dikirim dalam jumlah waktu yang tetap. Anda dapat memeriksa bandwidth jaringan Anda dengan mengunjungi [speedtest.net] (https://www.speedtest.net/).
+- Bandwidth (diukur dalam bit per detik) dari suatu jaringan menentukan jumlah maksimum data yang dapat dikirim dalam jumlah waktu yang tetap. Anda dapat memeriksa bandwidth jaringan Anda dengan mengunjungi [speedtest.net](https://www.speedtest.net/).
 - Sebagai analogi, misalkan kita ingin mencari gambar kucing di internet
-- Jadi, kami mengirim permintaan ke server, misalnya Google, seperti "berikan kucing.jpg"
+- Jadi, kita mengirim permintaan ke server, misalnya Google, seperti "berikan kucing.jpg"
   - Kita menempatkan permintaan ini dalam amplop
 - Di amplop, kita mencantumkan IP sebagai alamat pengirim
 - Namun, untuk penerima permintaan, kita tidak tahu alamat IP untuk Google
