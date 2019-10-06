@@ -72,7 +72,7 @@ Di dalam proyek Scratch Anda, buka menu "File", dan klik "Simpan ke komputer And
 
 ### Langkah 2 of 4
 
-Buka [https://github.com/me50/USERNAME](https://github.com/me50/USERNAME), gantikan `USERNAME` di URL dengan nama pengguna GitHub Anda sendiri. Di sisi kiri layar, klik "Branch: master". Di bidang yang bertuliskan "Find or crate branch...", ketikkan `cs50/problems/2019/ap/scratch` dan klik "Create branch".
+Buka [https://github.com/me50/USERNAME](https://github.com/me50/USERNAME), gantikan `USERNAME` di URL dengan nama pengguna GitHub Anda sendiri. Di sisi kiri layar, klik "Branch: master". Di bidang yang bertuliskan "Find or crate branch...", ketikkan `informatikasma/problems/2019/scratch` dan klik "Create branch".
 
 ### Langkah 3 of 4
 
