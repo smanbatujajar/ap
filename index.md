@@ -4,6 +4,8 @@ title: false
 
 {% include alert.md %}
 
+# Pengumuman
+
 {% include announcements.md %}
 
 ## Hello, world!
