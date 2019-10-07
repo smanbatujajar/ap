@@ -4,7 +4,7 @@ title: false
 
 {% include alert.md %}
 
-{% include honesty.md %}
+{% include announcements.md %}
 
 ## Hello, world!
 
