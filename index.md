@@ -2,9 +2,11 @@
 title: false
 ---
 
-# Hello, world!
-
 {% include alert.md %}
+
+{% include honesty.md %}
+
+## Hello, world!
 
 Ini adalah Informatika, mata pelajaran di SMAN 1 Batujajar yang mengenalkan berbagai prinsip ilmu komputer dan seni pemrograman bagi pelajar SMA.
 
