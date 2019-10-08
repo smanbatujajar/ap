@@ -73,7 +73,7 @@
   * Solusi pertama kita, satu halaman pada satu waktu, seperti garis merah: waktu yang kita butuhkan meningkat secara linear seiring dengan meningkatnya ukuran masalah.
   * Solusi kedua, dua halaman sekaligus, seperti garis kuning: kemiringannya tidak securam sebelumnya, tetapi masih linier.
   * Solusi terakhir kita, seperti garis hijau: logaritmik, karena waktu kita untuk menyelesaikan naik lebih lambat seiring dengan meningkatnya ukuran masalah. Dengan kata lain, jika buku telepon bertambah dari 1000 menjadi 2000 halaman, kita  hanya perlu satu langkah lagi untuk menemukan Ucup. Jika ukurannya dua kali lipat lagi dari 2000 menjadi 4000 halaman, kita masih hanya perlu satu langkah lagi.
-* Secara naluriah, kita tahu bagaimana menyelesaikan masalah ini karena kami telah menjumpainya dalam kehidupan sehari-hari, tetapi bagaimana jika kita tidak melakukannya? Kita dapat berpikir tentang menyelesaikan masalah atau merancang program dengan strategi yang berbeda, termasuk tetapi tidak terbatas pada:
+* Secara naluriah, kita tahu bagaimana menyelesaikan masalah ini karena kita telah menjumpainya dalam kehidupan sehari-hari, tetapi bagaimana jika kita tidak melakukannya? Kita dapat berpikir tentang menyelesaikan masalah atau merancang program dengan strategi yang berbeda, termasuk tetapi tidak terbatas pada:
   * brainstorming
   * perencanaan dan storyboarding
   * mengatur masalah menjadi beberapa komponen atau bagian dan menyelesaikan masing-masing secara modular
