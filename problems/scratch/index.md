@@ -90,6 +90,10 @@ Kiriman Anda akan dinilai kebenarannya dalam 2 menit, pada saat itu skor Anda ak
 
 ## FAQs
 
+### 404 saat mengunjungi github.com/me50/USERNAME
+
+Pastikan Anda telah bergabung terlebih dahulu di kelas Informatika yang tercantum pada bagian [GitHub](#github) pada dokumen spesifikasi masalah ini.
+
 ### Tidak dapat menemukan tombol "Branch: master"
 
 Jika Anda tidak melihat tombol "Branch: master" saat membuka halaman submit50 Anda di GitHub, klik tombol "README" di sebelah "We recommend every repository include a..." dan kemudian klik tombol hijau "Commit new file". Setelah itu, tombol "Branch: master" akan muncul!
