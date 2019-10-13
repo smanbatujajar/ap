@@ -40,7 +40,7 @@
 
 * Untuk membuat program kita berfungsi, kita juga memerlukan baris lain di atas, baris header `#include <stdio.h>` yang mendefinisikan fungsi `printf` yang ingin kita gunakan. Di suatu tempat ada file di komputer kita, `stdio.h`, yang mencakup kode yang memungkinkan kita untuk mengakses fungsi `printf`, dan baris `#include` memberitahu komputer untuk memasukkan file itu ke program kita.
 
-* Untuk menulis program pertama kita di Scratch, kita membuka situs web Scratch. Demikian pula, kita akan menggunakan **CS50 Sandbox** untuk mulai menulis dan menjalankan kode dengan cara yang sama. CS50 Sandbox, yang dikembangkan oleh Harvard University, adalah lingkungan virtual berbasis cloud dengan berbagai *library* dan *tools* yang sudah diinstal untuk menulis program dalam berbagai bahasa. Di bagian atas, ada editor kode sederhana, di mana kita bisa mengetik teks. Di bawahnya, kita memiliki jendela terminal, di mana kita dapat mengetik perintah:
+* Untuk menulis program pertama kita di Scratch, kita membuka situs web Scratch. Demikian pula, kita akan menggunakan [CS50 Sandbox](https://sandbox.cs50.io/) untuk mulai menulis dan menjalankan kode dengan cara yang sama. CS50 Sandbox, yang dikembangkan oleh Harvard University, adalah lingkungan virtual berbasis cloud dengan berbagai *library* dan *tools* yang sudah diinstal untuk menulis program dalam berbagai bahasa. Di bagian atas, ada editor kode sederhana, di mana kita bisa mengetik teks. Di bawahnya, kita memiliki jendela terminal, di mana kita dapat mengetik perintah:
 
     ![CS50 Sandbox](cs50_sandbox.png)
 
