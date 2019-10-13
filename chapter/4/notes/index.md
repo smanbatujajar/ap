@@ -4,7 +4,7 @@
 * TOC
 {:toc}
 
-## C
+## Mengenal C
 
 * Hari ini kita akan belajar sebuah bahasa baru, **C**: bahasa pemrograman yang memiliki seluruh fitur Scratch dan banyak lagi, tapi mungkin sedikit rumit karena murni teks.
 
@@ -668,7 +668,7 @@
         }
     }
     ```
-    
+
   * Perhatikan bahwa kita memiliki dua *loop* bercabang, di mana *loop* luar menggunakan `i` untuk melakukan segala sesuatu dalam `n` kali, dan *loop* bagian dalam menggunakan `j`, variabel yang berbeda, untuk melakukan sesuatu `n` kali untuk setiap waktu *tersebut*. Dengan kata lain, *loop* luar mencetak `n` "baris", dan *loop* dalam mencetak `n` "kolom", atau karakter `#`, di setiap baris.
 
 * Contoh lain yang tidak dicakup dalam pertemuan tersedia di bawah "Source Code" untuk [Chapter 4]({{ "/chapter/4" | relative_url }}).
