@@ -1,4 +1,4 @@
-## Computational Thinking & Scratch
+# Computational Thinking & Scratch
 {:.no_toc}
 
 * TOC
