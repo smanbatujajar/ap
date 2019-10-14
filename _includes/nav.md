@@ -1,7 +1,7 @@
 ***
 
 * [CS50 IDE](https://ide.cs50.io/)
-* [CS50 Programmer's Manual](https://man.cs50.io/)
+* [Manual Programer CS50](https://translate.google.com/translate?sl=en&tl=id&u=https%3A%2F%2Fman.cs50.io)
 
 ***
 
@@ -13,7 +13,7 @@
 
 ***
 
-* [Umpan Balik Anonim](https://forms.office.com/Pages/ResponsePage.aspx?id=rpWcgyYIwUuGwNlfzvGeZWTfBJURPIpInBqOk7f3y9xUMUk1SFNVMk0xVTdVUUUxUFNDNFk4RTNUTyQlQCN0PWcu)
+* [Masukan Anonim](https://forms.office.com/Pages/ResponsePage.aspx?id=rpWcgyYIwUuGwNlfzvGeZWTfBJURPIpInBqOk7f3y9xUMUk1SFNVMk0xVTdVUUUxUFNDNFk4RTNUTyQlQCN0PWcu)
 
 ***
 
@@ -24,8 +24,8 @@
 
 <!-- * [**Kurikulum**]({{ "/curriculum" | relative_url }}) -->
 * [Tools]({{ "/tools" | relative_url }})
-* [Diskusi](https://www.facebook.com/groups/informatika.sma)
-* [Silabus]({{ "/syllabus" | relative_url }})
+* [Diskusi](https://www.facebook.com/groups/informatikasma)
+<!-- * [Silabus]({{ "/syllabus" | relative_url }}) -->
 
 ***
 
