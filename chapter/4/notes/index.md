@@ -48,7 +48,7 @@
 
     ![Editor CS50 Sandbox](editor.png)
 
-* Mengikuti konvensi yang ada, kita mengakhiri file program kita dengan `.c` untuk menunjukkan bahwa itu dimaksudkan sebagai program C. Perhatikan bahwa kode kita diwarnai, sehingga hal-hal tertentu lebih terlihat.
+* Mengikuti konvensi yang ada, kita mengakhiri file program kita dengan `.c` untuk menunjukkan bahwa itu dimaksudkan sebagai program C. Perhatikan bahwa kode kita diwarnai, sehingga hal-hal tertentu lebih terlihat menonjol.
 
 ## *Compiler*
 
