@@ -1,7 +1,7 @@
 ***
 
 * [CS50 IDE](https://ide.cs50.io/)
-* [Manual Programer CS50](https://translate.google.com/translate?sl=en&tl=id&u=https%3A%2F%2Fman.cs50.io)
+* [Manual Programer CS50](https://man.cs50.io/)
 
 ***
 
