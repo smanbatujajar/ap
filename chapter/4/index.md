@@ -7,8 +7,6 @@
   * [Slide](http://bit.ly/infosma19-c-slide)
   * Source Code
     * [Sandbox](http://bit.ly/31dGuna)
-    <!-- * PDF
-    * Zip -->
   * Video
     * Coming soon
 
