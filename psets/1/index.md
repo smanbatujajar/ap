@@ -25,7 +25,7 @@ Jika Anda mengirim Cash dan Credit, kami akan mencatat mana skor yang lebih ting
 
 Sampai waktu yang tercantum di Google Classroom masing-masing, dengan batas waktu pengerjaan:
 
-1. Pekan ke-1: Hello, Fahrenheit
+1. Pekan ke-1: Hello, Celcius
 2. Pekan ke-2: Cash atau Credit
 3. Pekan ke-3: Pennies
 4. Pekan ke-4: Mario (more atau less)
