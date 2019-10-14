@@ -7,6 +7,7 @@
   * [Slide](http://bit.ly/infosma19-c-slide)
   * Source Code
     * [Sandbox](http://bit.ly/31dGuna)
+    * [GitHub](https://github.com/informatikasma/lectures/tree/2019/4)
   * Video
     * Coming soon
 
