@@ -6,9 +6,9 @@
   * [Catatan](notes)
   * [Slide](http://bit.ly/infosma19-c-slide)
   * Source Code
-    * Sandbox
-    * PDF
-    * Zip
+    * [Sandbox](http://bit.ly/31dGuna)
+    <!-- * PDF
+    * Zip -->
   * Video
     * Coming soon
 
