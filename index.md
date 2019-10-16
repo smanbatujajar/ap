@@ -8,10 +8,6 @@ title: false
 
 {% include announcements.md %}
 
-## Bahasa Pemrograman Paling Populer 1965 - 2019
-
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="embed-responsive-item" src="https://www.youtube.com/embed/Og847HVwRSI?modestbranding=1&amp;rel=0&amp;showinfo=0&amp;autoplay=1&amp;controls=0&amp;mute=1" style="background-image: url('https://img.youtube.com/vi/Og847HVwRSI/sddefault.jpg'); background-repeat: no-repeat; background-size: cover;"></iframe>
-
 ## Hello, world!
 
 Ini adalah Informatika, mata pelajaran di SMAN 1 Batujajar yang mengenalkan berbagai prinsip ilmu komputer dan seni pemrograman bagi pelajar SMA.
