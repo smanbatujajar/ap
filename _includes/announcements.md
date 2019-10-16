@@ -1,5 +1,5 @@
-* Rangkaian masalah 1 (pset1) sudah siap! Deadline pada pekan pertama harus mengerjakan hello dan celcius.
-* Anda boleh mencuri start dengan mengerjakan masalah dalam pset1 selanjutnya
+* [Rangkaian masalah 1 (psets1)](psets/1) sudah siap! Deadline pada pekan pertama harus mengerjakan hello dan celcius.
+* Anda boleh mencuri start dengan mengerjakan masalah dalam pset1 selanjutnya.
 
 ## Bahasa Pemrograman Paling Populer 1965 - 2019
 
