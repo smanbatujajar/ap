@@ -2,13 +2,13 @@
 
 {% include alert.md %}
 
-Part 1
+**Part 1**
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="embed-responsive-item" src="https://www.youtube.com/embed/yWLIgeMXp9Y?modestbranding=1&rel=0&showinfo=0" style="background-image: url('https://img.youtube.com/vi/yWLIgeMXp9Y/sddefault.jpg'); background-repeat: no-repeat; background-size: cover;"></iframe>
 </div>
 
-Part 2 (prerelease)
+**Part 2 (prerelease)**
 
 Ada dua video dalam playlist ini.
 
