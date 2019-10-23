@@ -4,4 +4,4 @@
 
 # C - Pekan 2
 
-![Can't talk. Coding.](assets/cant_talk_coding.gif)
+![Can't talk. Coding.](assets/images/cant_talk_coding.gif)
