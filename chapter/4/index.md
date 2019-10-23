@@ -2,8 +2,18 @@
 
 {% include alert.md %}
 
+Part 1
+
 <div class="embed-responsive embed-responsive-16by9">
     <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="embed-responsive-item" src="https://www.youtube.com/embed/yWLIgeMXp9Y?modestbranding=1&rel=0&showinfo=0" style="background-image: url('https://img.youtube.com/vi/yWLIgeMXp9Y/sddefault.jpg'); background-repeat: no-repeat; background-size: cover;"></iframe>
+</div>
+
+Part 2 (prerelease)
+
+Ada dua video dalam playlist ini.
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG&modestbranding=1&rel=0&showinfo=0" style="background-image: url('https://img.youtube.com/vi/wV3_gqYTQ2A/sddefault.jpg'); background-repeat: no-repeat; background-size: cover;"></iframe>
 </div>
 
 * Pertemuan Kelas
@@ -14,16 +24,19 @@
     * [GitHub](https://github.com/informatikasma/lectures/tree/2019/4)
   * [Video](https://youtu.be/yWLIgeMXp9Y)
 
-<!-- * Video Pendek
-* Command Line (coming soon)
-* Conditional Statements (coming soon)
-* Data Types (coming soon)
-* Loops (coming soon)
-* Operators (coming soon) -->
+<!--
+* Video Pendek
+  * Data Types (coming soon)
+  * Operators (coming soon)
+  * Conditional Statements (coming soon)
+  * Loops (coming soon)
+  * Command Line (coming soon)
+-->
 
 * [Rangkaian Masalah 1]({{ "/psets/1" | relative_url }})
 
-<!-- * Lab Belajar Mandiri
+<!--
+* Lab Belajar Mandiri
   * Command line
   * Boolean expression
   * Tipe data
@@ -37,7 +50,7 @@
   * Terminal
   * Typecasting
   * Variabel
-  *  -->
+-->
 
 * Lembar Referensi
   * [Boolean Expressions]({{ "/assets/pdfs/boolean_expressions.pdf" | relative_url }})
