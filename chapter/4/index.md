@@ -12,8 +12,6 @@
 
 Ada dua video dalam playlist ini.
 
-https://www.youtube.com/watch?v=wV3_gqYTQ2A&list=PLvkApvZ6OU-c4drGOxy8BmMg9rOW9cGhE&index=2&t=0s
-
 <div class="embed-responsive embed-responsive-16by9">
     <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="embed-responsive-item" src="https://www.youtube.com/embed/videoseries?list=PLvkApvZ6OU-c4drGOxy8BmMg9rOW9cGhE&modestbranding=1&rel=0&showinfo=0" style="background-image: url('https://img.youtube.com/vi/wV3_gqYTQ2A/sddefault.jpg'); background-repeat: no-repeat; background-size: cover;"></iframe>
 </div>
